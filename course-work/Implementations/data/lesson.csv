@@ -1,0 +1,533 @@
+lesson_id,course_id,title,order_number,difficulty_level
+1,1,Lesson 1: Basics & Greetings,1,Beginner
+2,2,Lesson 1: Basics & Greetings,1,Beginner
+3,3,Lesson 1: Basics & Greetings,1,Beginner
+4,4,Lesson 1: Basics & Greetings,1,Beginner
+5,5,Lesson 1: Basics & Greetings,1,Beginner
+6,6,Lesson 1: Basics & Greetings,1,Beginner
+7,7,Lesson 1: Basics & Greetings,1,Beginner
+8,8,Lesson 1: Basics & Greetings,1,Beginner
+9,9,Lesson 1: Basics & Greetings,1,Beginner
+10,10,Lesson 1: Basics & Greetings,1,Beginner
+11,11,Lesson 1: Basics & Greetings,1,Beginner
+12,12,Lesson 1: Basics & Greetings,1,Beginner
+13,13,Lesson 1: Basics & Greetings,1,Beginner
+14,14,Lesson 1: Basics & Greetings,1,Beginner
+15,15,Lesson 1: Basics & Greetings,1,Beginner
+16,16,Lesson 1: Basics & Greetings,1,Beginner
+17,17,Lesson 1: Basics & Greetings,1,Beginner
+18,18,Lesson 1: Basics & Greetings,1,Beginner
+19,19,Lesson 1: Basics & Greetings,1,Beginner
+20,1,Lesson 2: Basics & Greetings,2,Beginner
+21,2,Lesson 2: Basics & Greetings,2,Beginner
+22,3,Lesson 2: Basics & Greetings,2,Beginner
+23,4,Lesson 2: Basics & Greetings,2,Beginner
+24,5,Lesson 2: Basics & Greetings,2,Beginner
+25,6,Lesson 2: Basics & Greetings,2,Beginner
+26,7,Lesson 2: Basics & Greetings,2,Beginner
+27,8,Lesson 2: Basics & Greetings,2,Beginner
+28,9,Lesson 2: Basics & Greetings,2,Beginner
+29,10,Lesson 2: Basics & Greetings,2,Beginner
+30,11,Lesson 2: Basics & Greetings,2,Beginner
+31,12,Lesson 2: Basics & Greetings,2,Beginner
+32,13,Lesson 2: Basics & Greetings,2,Beginner
+33,14,Lesson 2: Basics & Greetings,2,Beginner
+34,15,Lesson 2: Basics & Greetings,2,Beginner
+35,16,Lesson 2: Basics & Greetings,2,Beginner
+36,17,Lesson 2: Basics & Greetings,2,Beginner
+37,18,Lesson 2: Basics & Greetings,2,Beginner
+38,19,Lesson 2: Basics & Greetings,2,Beginner
+39,1,Lesson 3: Basics & Greetings,3,Beginner
+40,2,Lesson 3: Basics & Greetings,3,Beginner
+41,3,Lesson 3: Basics & Greetings,3,Beginner
+42,4,Lesson 3: Basics & Greetings,3,Beginner
+43,5,Lesson 3: Basics & Greetings,3,Beginner
+44,6,Lesson 3: Basics & Greetings,3,Beginner
+45,7,Lesson 3: Basics & Greetings,3,Beginner
+46,8,Lesson 3: Basics & Greetings,3,Beginner
+47,9,Lesson 3: Basics & Greetings,3,Beginner
+48,10,Lesson 3: Basics & Greetings,3,Beginner
+49,11,Lesson 3: Basics & Greetings,3,Beginner
+50,12,Lesson 3: Basics & Greetings,3,Beginner
+51,13,Lesson 3: Basics & Greetings,3,Beginner
+52,14,Lesson 3: Basics & Greetings,3,Beginner
+53,15,Lesson 3: Basics & Greetings,3,Beginner
+54,16,Lesson 3: Basics & Greetings,3,Beginner
+55,17,Lesson 3: Basics & Greetings,3,Beginner
+56,18,Lesson 3: Basics & Greetings,3,Beginner
+57,19,Lesson 3: Basics & Greetings,3,Beginner
+58,1,Lesson 4: Basics & Greetings,4,Beginner
+59,2,Lesson 4: Basics & Greetings,4,Beginner
+60,3,Lesson 4: Basics & Greetings,4,Beginner
+61,4,Lesson 4: Basics & Greetings,4,Beginner
+62,5,Lesson 4: Basics & Greetings,4,Beginner
+63,6,Lesson 4: Basics & Greetings,4,Beginner
+64,7,Lesson 4: Basics & Greetings,4,Beginner
+65,8,Lesson 4: Basics & Greetings,4,Beginner
+66,9,Lesson 4: Basics & Greetings,4,Beginner
+67,10,Lesson 4: Basics & Greetings,4,Beginner
+68,11,Lesson 4: Basics & Greetings,4,Beginner
+69,12,Lesson 4: Basics & Greetings,4,Beginner
+70,13,Lesson 4: Basics & Greetings,4,Beginner
+71,14,Lesson 4: Basics & Greetings,4,Beginner
+72,15,Lesson 4: Basics & Greetings,4,Beginner
+73,16,Lesson 4: Basics & Greetings,4,Beginner
+74,17,Lesson 4: Basics & Greetings,4,Beginner
+75,18,Lesson 4: Basics & Greetings,4,Beginner
+76,19,Lesson 4: Basics & Greetings,4,Beginner
+77,1,Lesson 5: Basics & Greetings,5,Beginner
+78,2,Lesson 5: Basics & Greetings,5,Beginner
+79,3,Lesson 5: Basics & Greetings,5,Beginner
+80,4,Lesson 5: Basics & Greetings,5,Beginner
+81,5,Lesson 5: Basics & Greetings,5,Beginner
+82,6,Lesson 5: Basics & Greetings,5,Beginner
+83,7,Lesson 5: Basics & Greetings,5,Beginner
+84,8,Lesson 5: Basics & Greetings,5,Beginner
+85,9,Lesson 5: Basics & Greetings,5,Beginner
+86,10,Lesson 5: Basics & Greetings,5,Beginner
+87,11,Lesson 5: Basics & Greetings,5,Beginner
+88,12,Lesson 5: Basics & Greetings,5,Beginner
+89,13,Lesson 5: Basics & Greetings,5,Beginner
+90,14,Lesson 5: Basics & Greetings,5,Beginner
+91,15,Lesson 5: Basics & Greetings,5,Beginner
+92,16,Lesson 5: Basics & Greetings,5,Beginner
+93,17,Lesson 5: Basics & Greetings,5,Beginner
+94,18,Lesson 5: Basics & Greetings,5,Beginner
+95,19,Lesson 5: Basics & Greetings,5,Beginner
+96,1,Lesson 6: Vocabulary & Grammar,6,Beginner
+97,2,Lesson 6: Vocabulary & Grammar,6,Beginner
+98,3,Lesson 6: Vocabulary & Grammar,6,Beginner
+99,4,Lesson 6: Vocabulary & Grammar,6,Beginner
+100,5,Lesson 6: Vocabulary & Grammar,6,Beginner
+101,6,Lesson 6: Vocabulary & Grammar,6,Beginner
+102,7,Lesson 6: Vocabulary & Grammar,6,Beginner
+103,8,Lesson 6: Vocabulary & Grammar,6,Beginner
+104,9,Lesson 6: Vocabulary & Grammar,6,Beginner
+105,10,Lesson 6: Vocabulary & Grammar,6,Beginner
+106,11,Lesson 6: Vocabulary & Grammar,6,Beginner
+107,12,Lesson 6: Vocabulary & Grammar,6,Beginner
+108,13,Lesson 6: Vocabulary & Grammar,6,Beginner
+109,14,Lesson 6: Vocabulary & Grammar,6,Beginner
+110,15,Lesson 6: Vocabulary & Grammar,6,Beginner
+111,16,Lesson 6: Vocabulary & Grammar,6,Beginner
+112,17,Lesson 6: Vocabulary & Grammar,6,Beginner
+113,18,Lesson 6: Vocabulary & Grammar,6,Beginner
+114,19,Lesson 6: Vocabulary & Grammar,6,Beginner
+115,1,Lesson 7: Vocabulary & Grammar,7,Beginner
+116,2,Lesson 7: Vocabulary & Grammar,7,Beginner
+117,3,Lesson 7: Vocabulary & Grammar,7,Beginner
+118,4,Lesson 7: Vocabulary & Grammar,7,Beginner
+119,5,Lesson 7: Vocabulary & Grammar,7,Beginner
+120,6,Lesson 7: Vocabulary & Grammar,7,Beginner
+121,7,Lesson 7: Vocabulary & Grammar,7,Beginner
+122,8,Lesson 7: Vocabulary & Grammar,7,Beginner
+123,9,Lesson 7: Vocabulary & Grammar,7,Beginner
+124,10,Lesson 7: Vocabulary & Grammar,7,Beginner
+125,11,Lesson 7: Vocabulary & Grammar,7,Beginner
+126,12,Lesson 7: Vocabulary & Grammar,7,Beginner
+127,13,Lesson 7: Vocabulary & Grammar,7,Beginner
+128,14,Lesson 7: Vocabulary & Grammar,7,Beginner
+129,15,Lesson 7: Vocabulary & Grammar,7,Beginner
+130,16,Lesson 7: Vocabulary & Grammar,7,Beginner
+131,17,Lesson 7: Vocabulary & Grammar,7,Beginner
+132,18,Lesson 7: Vocabulary & Grammar,7,Beginner
+133,19,Lesson 7: Vocabulary & Grammar,7,Beginner
+134,1,Lesson 8: Vocabulary & Grammar,8,Beginner
+135,2,Lesson 8: Vocabulary & Grammar,8,Beginner
+136,3,Lesson 8: Vocabulary & Grammar,8,Beginner
+137,4,Lesson 8: Vocabulary & Grammar,8,Beginner
+138,5,Lesson 8: Vocabulary & Grammar,8,Beginner
+139,6,Lesson 8: Vocabulary & Grammar,8,Beginner
+140,7,Lesson 8: Vocabulary & Grammar,8,Beginner
+141,8,Lesson 8: Vocabulary & Grammar,8,Beginner
+142,9,Lesson 8: Vocabulary & Grammar,8,Beginner
+143,10,Lesson 8: Vocabulary & Grammar,8,Beginner
+144,11,Lesson 8: Vocabulary & Grammar,8,Beginner
+145,12,Lesson 8: Vocabulary & Grammar,8,Beginner
+146,13,Lesson 8: Vocabulary & Grammar,8,Beginner
+147,14,Lesson 8: Vocabulary & Grammar,8,Beginner
+148,15,Lesson 8: Vocabulary & Grammar,8,Beginner
+149,16,Lesson 8: Vocabulary & Grammar,8,Beginner
+150,17,Lesson 8: Vocabulary & Grammar,8,Beginner
+151,18,Lesson 8: Vocabulary & Grammar,8,Beginner
+152,19,Lesson 8: Vocabulary & Grammar,8,Beginner
+153,1,Lesson 9: Vocabulary & Grammar,9,Elementary
+154,2,Lesson 9: Vocabulary & Grammar,9,Elementary
+155,3,Lesson 9: Vocabulary & Grammar,9,Elementary
+156,4,Lesson 9: Vocabulary & Grammar,9,Elementary
+157,5,Lesson 9: Vocabulary & Grammar,9,Elementary
+158,6,Lesson 9: Vocabulary & Grammar,9,Elementary
+159,7,Lesson 9: Vocabulary & Grammar,9,Elementary
+160,8,Lesson 9: Vocabulary & Grammar,9,Elementary
+161,9,Lesson 9: Vocabulary & Grammar,9,Elementary
+162,10,Lesson 9: Vocabulary & Grammar,9,Elementary
+163,11,Lesson 9: Vocabulary & Grammar,9,Elementary
+164,12,Lesson 9: Vocabulary & Grammar,9,Elementary
+165,13,Lesson 9: Vocabulary & Grammar,9,Elementary
+166,14,Lesson 9: Vocabulary & Grammar,9,Elementary
+167,15,Lesson 9: Vocabulary & Grammar,9,Elementary
+168,16,Lesson 9: Vocabulary & Grammar,9,Elementary
+169,17,Lesson 9: Vocabulary & Grammar,9,Elementary
+170,18,Lesson 9: Vocabulary & Grammar,9,Elementary
+171,19,Lesson 9: Vocabulary & Grammar,9,Elementary
+172,1,Lesson 10: Vocabulary & Grammar,10,Elementary
+173,2,Lesson 10: Vocabulary & Grammar,10,Elementary
+174,3,Lesson 10: Vocabulary & Grammar,10,Elementary
+175,4,Lesson 10: Vocabulary & Grammar,10,Elementary
+176,5,Lesson 10: Vocabulary & Grammar,10,Elementary
+177,6,Lesson 10: Vocabulary & Grammar,10,Elementary
+178,7,Lesson 10: Vocabulary & Grammar,10,Elementary
+179,8,Lesson 10: Vocabulary & Grammar,10,Elementary
+180,9,Lesson 10: Vocabulary & Grammar,10,Elementary
+181,10,Lesson 10: Vocabulary & Grammar,10,Elementary
+182,11,Lesson 10: Vocabulary & Grammar,10,Elementary
+183,12,Lesson 10: Vocabulary & Grammar,10,Elementary
+184,13,Lesson 10: Vocabulary & Grammar,10,Elementary
+185,14,Lesson 10: Vocabulary & Grammar,10,Elementary
+186,15,Lesson 10: Vocabulary & Grammar,10,Elementary
+187,16,Lesson 10: Vocabulary & Grammar,10,Elementary
+188,17,Lesson 10: Vocabulary & Grammar,10,Elementary
+189,18,Lesson 10: Vocabulary & Grammar,10,Elementary
+190,19,Lesson 10: Vocabulary & Grammar,10,Elementary
+191,1,Lesson 11: Daily Conversations,11,Elementary
+192,2,Lesson 11: Daily Conversations,11,Elementary
+193,3,Lesson 11: Daily Conversations,11,Elementary
+194,4,Lesson 11: Daily Conversations,11,Elementary
+195,5,Lesson 11: Daily Conversations,11,Elementary
+196,6,Lesson 11: Daily Conversations,11,Elementary
+197,7,Lesson 11: Daily Conversations,11,Elementary
+198,8,Lesson 11: Daily Conversations,11,Elementary
+199,9,Lesson 11: Daily Conversations,11,Elementary
+200,10,Lesson 11: Daily Conversations,11,Elementary
+201,11,Lesson 11: Daily Conversations,11,Elementary
+202,12,Lesson 11: Daily Conversations,11,Elementary
+203,13,Lesson 11: Daily Conversations,11,Elementary
+204,14,Lesson 11: Daily Conversations,11,Elementary
+205,15,Lesson 11: Daily Conversations,11,Elementary
+206,16,Lesson 11: Daily Conversations,11,Elementary
+207,17,Lesson 11: Daily Conversations,11,Elementary
+208,18,Lesson 11: Daily Conversations,11,Elementary
+209,19,Lesson 11: Daily Conversations,11,Elementary
+210,1,Lesson 12: Daily Conversations,12,Elementary
+211,2,Lesson 12: Daily Conversations,12,Elementary
+212,3,Lesson 12: Daily Conversations,12,Elementary
+213,4,Lesson 12: Daily Conversations,12,Elementary
+214,5,Lesson 12: Daily Conversations,12,Elementary
+215,6,Lesson 12: Daily Conversations,12,Elementary
+216,7,Lesson 12: Daily Conversations,12,Elementary
+217,8,Lesson 12: Daily Conversations,12,Elementary
+218,9,Lesson 12: Daily Conversations,12,Elementary
+219,10,Lesson 12: Daily Conversations,12,Elementary
+220,11,Lesson 12: Daily Conversations,12,Elementary
+221,12,Lesson 12: Daily Conversations,12,Elementary
+222,13,Lesson 12: Daily Conversations,12,Elementary
+223,14,Lesson 12: Daily Conversations,12,Elementary
+224,15,Lesson 12: Daily Conversations,12,Elementary
+225,16,Lesson 12: Daily Conversations,12,Elementary
+226,17,Lesson 12: Daily Conversations,12,Elementary
+227,18,Lesson 12: Daily Conversations,12,Elementary
+228,19,Lesson 12: Daily Conversations,12,Elementary
+229,1,Lesson 13: Daily Conversations,13,Elementary
+230,2,Lesson 13: Daily Conversations,13,Elementary
+231,3,Lesson 13: Daily Conversations,13,Elementary
+232,4,Lesson 13: Daily Conversations,13,Elementary
+233,5,Lesson 13: Daily Conversations,13,Elementary
+234,6,Lesson 13: Daily Conversations,13,Elementary
+235,7,Lesson 13: Daily Conversations,13,Elementary
+236,8,Lesson 13: Daily Conversations,13,Elementary
+237,9,Lesson 13: Daily Conversations,13,Elementary
+238,10,Lesson 13: Daily Conversations,13,Elementary
+239,11,Lesson 13: Daily Conversations,13,Elementary
+240,12,Lesson 13: Daily Conversations,13,Elementary
+241,13,Lesson 13: Daily Conversations,13,Elementary
+242,14,Lesson 13: Daily Conversations,13,Elementary
+243,15,Lesson 13: Daily Conversations,13,Elementary
+244,16,Lesson 13: Daily Conversations,13,Elementary
+245,17,Lesson 13: Daily Conversations,13,Elementary
+246,18,Lesson 13: Daily Conversations,13,Elementary
+247,19,Lesson 13: Daily Conversations,13,Elementary
+248,1,Lesson 14: Daily Conversations,14,Elementary
+249,2,Lesson 14: Daily Conversations,14,Elementary
+250,3,Lesson 14: Daily Conversations,14,Elementary
+251,4,Lesson 14: Daily Conversations,14,Elementary
+252,5,Lesson 14: Daily Conversations,14,Elementary
+253,6,Lesson 14: Daily Conversations,14,Elementary
+254,7,Lesson 14: Daily Conversations,14,Elementary
+255,8,Lesson 14: Daily Conversations,14,Elementary
+256,9,Lesson 14: Daily Conversations,14,Elementary
+257,10,Lesson 14: Daily Conversations,14,Elementary
+258,11,Lesson 14: Daily Conversations,14,Elementary
+259,12,Lesson 14: Daily Conversations,14,Elementary
+260,13,Lesson 14: Daily Conversations,14,Elementary
+261,14,Lesson 14: Daily Conversations,14,Elementary
+262,15,Lesson 14: Daily Conversations,14,Elementary
+263,16,Lesson 14: Daily Conversations,14,Elementary
+264,17,Lesson 14: Daily Conversations,14,Elementary
+265,18,Lesson 14: Daily Conversations,14,Elementary
+266,19,Lesson 14: Daily Conversations,14,Elementary
+267,1,Lesson 15: Daily Conversations,15,Elementary
+268,2,Lesson 15: Daily Conversations,15,Elementary
+269,3,Lesson 15: Daily Conversations,15,Elementary
+270,4,Lesson 15: Daily Conversations,15,Elementary
+271,5,Lesson 15: Daily Conversations,15,Elementary
+272,6,Lesson 15: Daily Conversations,15,Elementary
+273,7,Lesson 15: Daily Conversations,15,Elementary
+274,8,Lesson 15: Daily Conversations,15,Elementary
+275,9,Lesson 15: Daily Conversations,15,Elementary
+276,10,Lesson 15: Daily Conversations,15,Elementary
+277,11,Lesson 15: Daily Conversations,15,Elementary
+278,12,Lesson 15: Daily Conversations,15,Elementary
+279,13,Lesson 15: Daily Conversations,15,Elementary
+280,14,Lesson 15: Daily Conversations,15,Elementary
+281,15,Lesson 15: Daily Conversations,15,Elementary
+282,16,Lesson 15: Daily Conversations,15,Elementary
+283,17,Lesson 15: Daily Conversations,15,Elementary
+284,18,Lesson 15: Daily Conversations,15,Elementary
+285,19,Lesson 15: Daily Conversations,15,Elementary
+286,1,Lesson 16: Reading & Writing,16,Elementary
+287,2,Lesson 16: Reading & Writing,16,Elementary
+288,3,Lesson 16: Reading & Writing,16,Elementary
+289,4,Lesson 16: Reading & Writing,16,Elementary
+290,5,Lesson 16: Reading & Writing,16,Elementary
+291,6,Lesson 16: Reading & Writing,16,Elementary
+292,7,Lesson 16: Reading & Writing,16,Elementary
+293,8,Lesson 16: Reading & Writing,16,Elementary
+294,9,Lesson 16: Reading & Writing,16,Elementary
+295,10,Lesson 16: Reading & Writing,16,Elementary
+296,11,Lesson 16: Reading & Writing,16,Elementary
+297,12,Lesson 16: Reading & Writing,16,Elementary
+298,13,Lesson 16: Reading & Writing,16,Elementary
+299,14,Lesson 16: Reading & Writing,16,Elementary
+300,15,Lesson 16: Reading & Writing,16,Elementary
+301,16,Lesson 16: Reading & Writing,16,Elementary
+302,17,Lesson 16: Reading & Writing,16,Elementary
+303,18,Lesson 16: Reading & Writing,16,Elementary
+304,19,Lesson 16: Reading & Writing,16,Elementary
+305,1,Lesson 17: Reading & Writing,17,Intermediate
+306,2,Lesson 17: Reading & Writing,17,Intermediate
+307,3,Lesson 17: Reading & Writing,17,Intermediate
+308,4,Lesson 17: Reading & Writing,17,Intermediate
+309,5,Lesson 17: Reading & Writing,17,Intermediate
+310,6,Lesson 17: Reading & Writing,17,Intermediate
+311,7,Lesson 17: Reading & Writing,17,Intermediate
+312,8,Lesson 17: Reading & Writing,17,Intermediate
+313,9,Lesson 17: Reading & Writing,17,Intermediate
+314,10,Lesson 17: Reading & Writing,17,Intermediate
+315,11,Lesson 17: Reading & Writing,17,Intermediate
+316,12,Lesson 17: Reading & Writing,17,Intermediate
+317,13,Lesson 17: Reading & Writing,17,Intermediate
+318,14,Lesson 17: Reading & Writing,17,Intermediate
+319,15,Lesson 17: Reading & Writing,17,Intermediate
+320,16,Lesson 17: Reading & Writing,17,Intermediate
+321,17,Lesson 17: Reading & Writing,17,Intermediate
+322,18,Lesson 17: Reading & Writing,17,Intermediate
+323,19,Lesson 17: Reading & Writing,17,Intermediate
+324,1,Lesson 18: Reading & Writing,18,Intermediate
+325,2,Lesson 18: Reading & Writing,18,Intermediate
+326,3,Lesson 18: Reading & Writing,18,Intermediate
+327,4,Lesson 18: Reading & Writing,18,Intermediate
+328,5,Lesson 18: Reading & Writing,18,Intermediate
+329,6,Lesson 18: Reading & Writing,18,Intermediate
+330,7,Lesson 18: Reading & Writing,18,Intermediate
+331,8,Lesson 18: Reading & Writing,18,Intermediate
+332,9,Lesson 18: Reading & Writing,18,Intermediate
+333,10,Lesson 18: Reading & Writing,18,Intermediate
+334,11,Lesson 18: Reading & Writing,18,Intermediate
+335,12,Lesson 18: Reading & Writing,18,Intermediate
+336,13,Lesson 18: Reading & Writing,18,Intermediate
+337,14,Lesson 18: Reading & Writing,18,Intermediate
+338,15,Lesson 18: Reading & Writing,18,Intermediate
+339,16,Lesson 18: Reading & Writing,18,Intermediate
+340,17,Lesson 18: Reading & Writing,18,Intermediate
+341,18,Lesson 18: Reading & Writing,18,Intermediate
+342,19,Lesson 18: Reading & Writing,18,Intermediate
+343,1,Lesson 19: Reading & Writing,19,Intermediate
+344,2,Lesson 19: Reading & Writing,19,Intermediate
+345,3,Lesson 19: Reading & Writing,19,Intermediate
+346,4,Lesson 19: Reading & Writing,19,Intermediate
+347,5,Lesson 19: Reading & Writing,19,Intermediate
+348,6,Lesson 19: Reading & Writing,19,Intermediate
+349,7,Lesson 19: Reading & Writing,19,Intermediate
+350,8,Lesson 19: Reading & Writing,19,Intermediate
+351,9,Lesson 19: Reading & Writing,19,Intermediate
+352,10,Lesson 19: Reading & Writing,19,Intermediate
+353,11,Lesson 19: Reading & Writing,19,Intermediate
+354,12,Lesson 19: Reading & Writing,19,Intermediate
+355,13,Lesson 19: Reading & Writing,19,Intermediate
+356,14,Lesson 19: Reading & Writing,19,Intermediate
+357,15,Lesson 19: Reading & Writing,19,Intermediate
+358,16,Lesson 19: Reading & Writing,19,Intermediate
+359,17,Lesson 19: Reading & Writing,19,Intermediate
+360,18,Lesson 19: Reading & Writing,19,Intermediate
+361,19,Lesson 19: Reading & Writing,19,Intermediate
+362,1,Lesson 20: Reading & Writing,20,Intermediate
+363,2,Lesson 20: Reading & Writing,20,Intermediate
+364,3,Lesson 20: Reading & Writing,20,Intermediate
+365,4,Lesson 20: Reading & Writing,20,Intermediate
+366,5,Lesson 20: Reading & Writing,20,Intermediate
+367,6,Lesson 20: Reading & Writing,20,Intermediate
+368,7,Lesson 20: Reading & Writing,20,Intermediate
+369,8,Lesson 20: Reading & Writing,20,Intermediate
+370,9,Lesson 20: Reading & Writing,20,Intermediate
+371,10,Lesson 20: Reading & Writing,20,Intermediate
+372,11,Lesson 20: Reading & Writing,20,Intermediate
+373,12,Lesson 20: Reading & Writing,20,Intermediate
+374,13,Lesson 20: Reading & Writing,20,Intermediate
+375,14,Lesson 20: Reading & Writing,20,Intermediate
+376,15,Lesson 20: Reading & Writing,20,Intermediate
+377,16,Lesson 20: Reading & Writing,20,Intermediate
+378,17,Lesson 20: Reading & Writing,20,Intermediate
+379,18,Lesson 20: Reading & Writing,20,Intermediate
+380,19,Lesson 20: Reading & Writing,20,Intermediate
+381,1,Lesson 21: Culture & Advanced Topics,21,Intermediate
+382,2,Lesson 21: Culture & Advanced Topics,21,Intermediate
+383,3,Lesson 21: Culture & Advanced Topics,21,Intermediate
+384,4,Lesson 21: Culture & Advanced Topics,21,Intermediate
+385,5,Lesson 21: Culture & Advanced Topics,21,Intermediate
+386,6,Lesson 21: Culture & Advanced Topics,21,Intermediate
+387,7,Lesson 21: Culture & Advanced Topics,21,Intermediate
+388,8,Lesson 21: Culture & Advanced Topics,21,Intermediate
+389,9,Lesson 21: Culture & Advanced Topics,21,Intermediate
+390,10,Lesson 21: Culture & Advanced Topics,21,Intermediate
+391,11,Lesson 21: Culture & Advanced Topics,21,Intermediate
+392,12,Lesson 21: Culture & Advanced Topics,21,Intermediate
+393,13,Lesson 21: Culture & Advanced Topics,21,Intermediate
+394,14,Lesson 21: Culture & Advanced Topics,21,Intermediate
+395,15,Lesson 21: Culture & Advanced Topics,21,Intermediate
+396,16,Lesson 21: Culture & Advanced Topics,21,Intermediate
+397,17,Lesson 21: Culture & Advanced Topics,21,Intermediate
+398,18,Lesson 21: Culture & Advanced Topics,21,Intermediate
+399,19,Lesson 21: Culture & Advanced Topics,21,Intermediate
+400,1,Lesson 22: Culture & Advanced Topics,22,Intermediate
+401,2,Lesson 22: Culture & Advanced Topics,22,Intermediate
+402,3,Lesson 22: Culture & Advanced Topics,22,Intermediate
+403,4,Lesson 22: Culture & Advanced Topics,22,Intermediate
+404,5,Lesson 22: Culture & Advanced Topics,22,Intermediate
+405,6,Lesson 22: Culture & Advanced Topics,22,Intermediate
+406,7,Lesson 22: Culture & Advanced Topics,22,Intermediate
+407,8,Lesson 22: Culture & Advanced Topics,22,Intermediate
+408,9,Lesson 22: Culture & Advanced Topics,22,Intermediate
+409,10,Lesson 22: Culture & Advanced Topics,22,Intermediate
+410,11,Lesson 22: Culture & Advanced Topics,22,Intermediate
+411,12,Lesson 22: Culture & Advanced Topics,22,Intermediate
+412,13,Lesson 22: Culture & Advanced Topics,22,Intermediate
+413,14,Lesson 22: Culture & Advanced Topics,22,Intermediate
+414,15,Lesson 22: Culture & Advanced Topics,22,Intermediate
+415,16,Lesson 22: Culture & Advanced Topics,22,Intermediate
+416,17,Lesson 22: Culture & Advanced Topics,22,Intermediate
+417,18,Lesson 22: Culture & Advanced Topics,22,Intermediate
+418,19,Lesson 22: Culture & Advanced Topics,22,Intermediate
+419,1,Lesson 23: Culture & Advanced Topics,23,Intermediate
+420,2,Lesson 23: Culture & Advanced Topics,23,Intermediate
+421,3,Lesson 23: Culture & Advanced Topics,23,Intermediate
+422,4,Lesson 23: Culture & Advanced Topics,23,Intermediate
+423,5,Lesson 23: Culture & Advanced Topics,23,Intermediate
+424,6,Lesson 23: Culture & Advanced Topics,23,Intermediate
+425,7,Lesson 23: Culture & Advanced Topics,23,Intermediate
+426,8,Lesson 23: Culture & Advanced Topics,23,Intermediate
+427,9,Lesson 23: Culture & Advanced Topics,23,Intermediate
+428,10,Lesson 23: Culture & Advanced Topics,23,Intermediate
+429,11,Lesson 23: Culture & Advanced Topics,23,Intermediate
+430,12,Lesson 23: Culture & Advanced Topics,23,Intermediate
+431,13,Lesson 23: Culture & Advanced Topics,23,Intermediate
+432,14,Lesson 23: Culture & Advanced Topics,23,Intermediate
+433,15,Lesson 23: Culture & Advanced Topics,23,Intermediate
+434,16,Lesson 23: Culture & Advanced Topics,23,Intermediate
+435,17,Lesson 23: Culture & Advanced Topics,23,Intermediate
+436,18,Lesson 23: Culture & Advanced Topics,23,Intermediate
+437,19,Lesson 23: Culture & Advanced Topics,23,Intermediate
+438,1,Lesson 24: Culture & Advanced Topics,24,Intermediate
+439,2,Lesson 24: Culture & Advanced Topics,24,Intermediate
+440,3,Lesson 24: Culture & Advanced Topics,24,Intermediate
+441,4,Lesson 24: Culture & Advanced Topics,24,Intermediate
+442,5,Lesson 24: Culture & Advanced Topics,24,Intermediate
+443,6,Lesson 24: Culture & Advanced Topics,24,Intermediate
+444,7,Lesson 24: Culture & Advanced Topics,24,Intermediate
+445,8,Lesson 24: Culture & Advanced Topics,24,Intermediate
+446,9,Lesson 24: Culture & Advanced Topics,24,Intermediate
+447,10,Lesson 24: Culture & Advanced Topics,24,Intermediate
+448,11,Lesson 24: Culture & Advanced Topics,24,Intermediate
+449,12,Lesson 24: Culture & Advanced Topics,24,Intermediate
+450,13,Lesson 24: Culture & Advanced Topics,24,Intermediate
+451,14,Lesson 24: Culture & Advanced Topics,24,Intermediate
+452,15,Lesson 24: Culture & Advanced Topics,24,Intermediate
+453,16,Lesson 24: Culture & Advanced Topics,24,Intermediate
+454,17,Lesson 24: Culture & Advanced Topics,24,Intermediate
+455,18,Lesson 24: Culture & Advanced Topics,24,Intermediate
+456,19,Lesson 24: Culture & Advanced Topics,24,Intermediate
+457,1,Lesson 25: Culture & Advanced Topics,25,Advanced
+458,2,Lesson 25: Culture & Advanced Topics,25,Advanced
+459,3,Lesson 25: Culture & Advanced Topics,25,Advanced
+460,4,Lesson 25: Culture & Advanced Topics,25,Advanced
+461,5,Lesson 25: Culture & Advanced Topics,25,Advanced
+462,6,Lesson 25: Culture & Advanced Topics,25,Advanced
+463,7,Lesson 25: Culture & Advanced Topics,25,Advanced
+464,8,Lesson 25: Culture & Advanced Topics,25,Advanced
+465,9,Lesson 25: Culture & Advanced Topics,25,Advanced
+466,10,Lesson 25: Culture & Advanced Topics,25,Advanced
+467,11,Lesson 25: Culture & Advanced Topics,25,Advanced
+468,12,Lesson 25: Culture & Advanced Topics,25,Advanced
+469,13,Lesson 25: Culture & Advanced Topics,25,Advanced
+470,14,Lesson 25: Culture & Advanced Topics,25,Advanced
+471,15,Lesson 25: Culture & Advanced Topics,25,Advanced
+472,16,Lesson 25: Culture & Advanced Topics,25,Advanced
+473,17,Lesson 25: Culture & Advanced Topics,25,Advanced
+474,18,Lesson 25: Culture & Advanced Topics,25,Advanced
+475,19,Lesson 25: Culture & Advanced Topics,25,Advanced
+476,1,Lesson 26: Culture & Advanced Topics,26,Advanced
+477,2,Lesson 26: Culture & Advanced Topics,26,Advanced
+478,3,Lesson 26: Culture & Advanced Topics,26,Advanced
+479,4,Lesson 26: Culture & Advanced Topics,26,Advanced
+480,5,Lesson 26: Culture & Advanced Topics,26,Advanced
+481,6,Lesson 26: Culture & Advanced Topics,26,Advanced
+482,7,Lesson 26: Culture & Advanced Topics,26,Advanced
+483,8,Lesson 26: Culture & Advanced Topics,26,Advanced
+484,9,Lesson 26: Culture & Advanced Topics,26,Advanced
+485,10,Lesson 26: Culture & Advanced Topics,26,Advanced
+486,11,Lesson 26: Culture & Advanced Topics,26,Advanced
+487,12,Lesson 26: Culture & Advanced Topics,26,Advanced
+488,13,Lesson 26: Culture & Advanced Topics,26,Advanced
+489,14,Lesson 26: Culture & Advanced Topics,26,Advanced
+490,15,Lesson 26: Culture & Advanced Topics,26,Advanced
+491,16,Lesson 26: Culture & Advanced Topics,26,Advanced
+492,17,Lesson 26: Culture & Advanced Topics,26,Advanced
+493,18,Lesson 26: Culture & Advanced Topics,26,Advanced
+494,19,Lesson 26: Culture & Advanced Topics,26,Advanced
+495,1,Lesson 27: Culture & Advanced Topics,27,Advanced
+496,2,Lesson 27: Culture & Advanced Topics,27,Advanced
+497,3,Lesson 27: Culture & Advanced Topics,27,Advanced
+498,4,Lesson 27: Culture & Advanced Topics,27,Advanced
+499,5,Lesson 27: Culture & Advanced Topics,27,Advanced
+500,6,Lesson 27: Culture & Advanced Topics,27,Advanced
+501,7,Lesson 27: Culture & Advanced Topics,27,Advanced
+502,8,Lesson 27: Culture & Advanced Topics,27,Advanced
+503,9,Lesson 27: Culture & Advanced Topics,27,Advanced
+504,10,Lesson 27: Culture & Advanced Topics,27,Advanced
+505,11,Lesson 27: Culture & Advanced Topics,27,Advanced
+506,12,Lesson 27: Culture & Advanced Topics,27,Advanced
+507,13,Lesson 27: Culture & Advanced Topics,27,Advanced
+508,14,Lesson 27: Culture & Advanced Topics,27,Advanced
+509,15,Lesson 27: Culture & Advanced Topics,27,Advanced
+510,16,Lesson 27: Culture & Advanced Topics,27,Advanced
+511,17,Lesson 27: Culture & Advanced Topics,27,Advanced
+512,18,Lesson 27: Culture & Advanced Topics,27,Advanced
+513,19,Lesson 27: Culture & Advanced Topics,27,Advanced
+514,1,Lesson 28: Culture & Advanced Topics,28,Advanced
+515,2,Lesson 28: Culture & Advanced Topics,28,Advanced
+516,3,Lesson 28: Culture & Advanced Topics,28,Advanced
+517,4,Lesson 28: Culture & Advanced Topics,28,Advanced
+518,5,Lesson 28: Culture & Advanced Topics,28,Advanced
+519,6,Lesson 28: Culture & Advanced Topics,28,Advanced
+520,7,Lesson 28: Culture & Advanced Topics,28,Advanced
+521,8,Lesson 28: Culture & Advanced Topics,28,Advanced
+522,9,Lesson 28: Culture & Advanced Topics,28,Advanced
+523,10,Lesson 28: Culture & Advanced Topics,28,Advanced
+524,11,Lesson 28: Culture & Advanced Topics,28,Advanced
+525,12,Lesson 28: Culture & Advanced Topics,28,Advanced
+526,13,Lesson 28: Culture & Advanced Topics,28,Advanced
+527,14,Lesson 28: Culture & Advanced Topics,28,Advanced
+528,15,Lesson 28: Culture & Advanced Topics,28,Advanced
+529,16,Lesson 28: Culture & Advanced Topics,28,Advanced
+530,17,Lesson 28: Culture & Advanced Topics,28,Advanced
+531,18,Lesson 28: Culture & Advanced Topics,28,Advanced
+532,19,Lesson 28: Culture & Advanced Topics,28,Advanced

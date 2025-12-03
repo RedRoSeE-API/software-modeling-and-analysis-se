@@ -1,0 +1,2661 @@
+exercise_id,lesson_id,question_text,correct_answer
+1,1,Translate: Goodbye,Me encanta aprender idiomas
+2,2,Translate: How are you?,¿Cómo estás?
+3,3,Translate: How are you?,Buenos días
+4,4,Translate: Goodbye,No
+5,5,Translate: How are you?,Me encanta aprender idiomas
+6,6,Translate: Thank you,Gracias
+7,7,Translate: Hello,No
+8,8,Translate: Good morning,Adiós
+9,9,Translate: Please,Agua
+10,10,Translate: Water,Buenos días
+11,11,Translate: Goodbye,Hola
+12,12,Translate: Thank you,No
+13,13,Translate: Water,Gracias
+14,14,Translate: I love learning languages,Me encanta aprender idiomas
+15,15,Translate: Water,Hola
+16,16,Translate: Goodbye,Agua
+17,17,Translate: I love learning languages,No
+18,18,Translate: No,¿Cómo estás?
+19,19,Translate: Thank you,Agua
+20,20,Translate: Thank you,Me encanta aprender idiomas
+21,21,Translate: How are you?,Adiós
+22,22,Translate: Good morning,Me encanta aprender idiomas
+23,23,Translate: How are you?,Buenos días
+24,24,Translate: Please,Hola
+25,25,Translate: Please,Sí
+26,26,Translate: Hello,Agua
+27,27,Translate: Hello,Por favor
+28,28,Translate: Good morning,¿Cómo estás?
+29,29,Translate: Yes,Por favor
+30,30,Translate: Yes,No
+31,31,Translate: I love learning languages,¿Cómo estás?
+32,32,Translate: Please,No
+33,33,Translate: Water,Agua
+34,34,Translate: Thank you,Sí
+35,35,Translate: Please,Por favor
+36,36,Translate: No,Por favor
+37,37,Translate: Water,No
+38,38,Translate: I love learning languages,¿Cómo estás?
+39,39,Translate: How are you?,¿Cómo estás?
+40,40,Translate: How are you?,Adiós
+41,41,Translate: Please,Por favor
+42,42,Translate: Goodbye,Por favor
+43,43,Translate: I love learning languages,Me encanta aprender idiomas
+44,44,Translate: Hello,No
+45,45,Translate: How are you?,Sí
+46,46,Translate: Water,Gracias
+47,47,Translate: Water,Adiós
+48,48,Translate: Yes,Por favor
+49,49,Translate: Thank you,Por favor
+50,50,Translate: No,¿Cómo estás?
+51,51,Translate: Thank you,¿Cómo estás?
+52,52,Translate: Good morning,Por favor
+53,53,Translate: Hello,Agua
+54,54,Translate: Good morning,No
+55,55,Translate: Hello,Me encanta aprender idiomas
+56,56,Translate: Water,Adiós
+57,57,Translate: Goodbye,Adiós
+58,58,Translate: No,Me encanta aprender idiomas
+59,59,Translate: No,¿Cómo estás?
+60,60,Translate: Hello,Adiós
+61,61,Translate: Yes,Adiós
+62,62,Translate: I love learning languages,Adiós
+63,63,Translate: Thank you,Agua
+64,64,Translate: Thank you,Agua
+65,65,Translate: Please,No
+66,66,Translate: Please,Sí
+67,67,Translate: Please,Gracias
+68,68,Translate: Thank you,Adiós
+69,69,Translate: Thank you,Por favor
+70,70,Translate: Good morning,¿Cómo estás?
+71,71,Translate: Yes,Gracias
+72,72,Translate: Goodbye,Sí
+73,73,Translate: I love learning languages,Gracias
+74,74,Translate: Please,Adiós
+75,75,Translate: Yes,Por favor
+76,76,Translate: No,Agua
+77,77,Translate: Thank you,Agua
+78,78,Translate: Goodbye,¿Cómo estás?
+79,79,Translate: How are you?,Me encanta aprender idiomas
+80,80,Translate: Yes,Buenos días
+81,81,Translate: I love learning languages,Me encanta aprender idiomas
+82,82,Translate: How are you?,Buenos días
+83,83,Translate: Thank you,Me encanta aprender idiomas
+84,84,Translate: Thank you,¿Cómo estás?
+85,85,Translate: How are you?,Adiós
+86,86,Translate: I love learning languages,Adiós
+87,87,Translate: Water,Agua
+88,88,Translate: How are you?,Me encanta aprender idiomas
+89,89,Translate: Good morning,Gracias
+90,90,Translate: Thank you,Gracias
+91,91,Translate: Thank you,Por favor
+92,92,Translate: Please,No
+93,93,Translate: I love learning languages,Por favor
+94,94,Translate: How are you?,Me encanta aprender idiomas
+95,95,Translate: Hello,Gracias
+96,96,Translate: Goodbye,Me encanta aprender idiomas
+97,97,Translate: Water,Agua
+98,98,Translate: How are you?,Adiós
+99,99,Translate: Hello,Sí
+100,100,Translate: Good morning,Buenos días
+101,101,Translate: I love learning languages,Adiós
+102,102,Translate: Yes,Hola
+103,103,Translate: Water,Me encanta aprender idiomas
+104,104,Translate: Thank you,Me encanta aprender idiomas
+105,105,Translate: Thank you,Buenos días
+106,106,Translate: Good morning,Gracias
+107,107,Translate: Water,Me encanta aprender idiomas
+108,108,Translate: Goodbye,¿Cómo estás?
+109,109,Translate: Water,Gracias
+110,110,Translate: Hello,Sí
+111,111,Translate: Hello,Agua
+112,112,Translate: No,Hola
+113,113,Translate: I love learning languages,Me encanta aprender idiomas
+114,114,Translate: Good morning,¿Cómo estás?
+115,115,Translate: No,Por favor
+116,116,Translate: Goodbye,No
+117,117,Translate: Goodbye,¿Cómo estás?
+118,118,Translate: I love learning languages,Buenos días
+119,119,Translate: Good morning,Gracias
+120,120,Translate: Please,¿Cómo estás?
+121,121,Translate: Water,Por favor
+122,122,Translate: Water,Agua
+123,123,Translate: Good morning,Adiós
+124,124,Translate: How are you?,Agua
+125,125,Translate: Yes,Me encanta aprender idiomas
+126,126,Translate: Yes,Adiós
+127,127,Translate: Please,Agua
+128,128,Translate: Goodbye,Agua
+129,129,Translate: Please,Me encanta aprender idiomas
+130,130,Translate: How are you?,Agua
+131,131,Translate: Yes,Sí
+132,132,Translate: Please,Buenos días
+133,133,Translate: Goodbye,Gracias
+134,134,Translate: Good morning,Gracias
+135,135,Translate: I love learning languages,Gracias
+136,136,Translate: Yes,¿Cómo estás?
+137,137,Translate: Thank you,Por favor
+138,138,Translate: I love learning languages,Sí
+139,139,Translate: Hello,Sí
+140,140,Translate: Yes,Gracias
+141,141,Translate: I love learning languages,No
+142,142,Translate: How are you?,Hola
+143,143,Translate: Hello,No
+144,144,Translate: Good morning,Buenos días
+145,145,Translate: I love learning languages,Adiós
+146,146,Translate: I love learning languages,Buenos días
+147,147,Translate: I love learning languages,Sí
+148,148,Translate: I love learning languages,Adiós
+149,149,Translate: Goodbye,Buenos días
+150,150,Translate: Good morning,Hola
+151,151,Translate: No,Me encanta aprender idiomas
+152,152,Translate: How are you?,Gracias
+153,153,Translate: I love learning languages,¿Cómo estás?
+154,154,Translate: Please,Buenos días
+155,155,Translate: I love learning languages,Buenos días
+156,156,Translate: No,Agua
+157,157,Translate: Thank you,Agua
+158,158,Translate: Good morning,Adiós
+159,159,Translate: Thank you,Hola
+160,160,Translate: How are you?,Sí
+161,161,Translate: Goodbye,No
+162,162,Translate: Hello,Sí
+163,163,Translate: Please,No
+164,164,Translate: No,Gracias
+165,165,Translate: Good morning,¿Cómo estás?
+166,166,Translate: How are you?,¿Cómo estás?
+167,167,Translate: Thank you,No
+168,168,Translate: Hello,Adiós
+169,169,Translate: Water,Hola
+170,170,Translate: Goodbye,Por favor
+171,171,Translate: Goodbye,Me encanta aprender idiomas
+172,172,Translate: Thank you,¿Cómo estás?
+173,173,Translate: I love learning languages,Gracias
+174,174,Translate: I love learning languages,No
+175,175,Translate: No,Por favor
+176,176,Translate: Yes,Agua
+177,177,Translate: Thank you,Sí
+178,178,Translate: How are you?,Adiós
+179,179,Translate: Thank you,Por favor
+180,180,Translate: Thank you,Me encanta aprender idiomas
+181,181,Translate: Water,Por favor
+182,182,Translate: Yes,Me encanta aprender idiomas
+183,183,Translate: Water,Adiós
+184,184,Translate: Please,Agua
+185,185,Translate: I love learning languages,No
+186,186,Translate: No,No
+187,187,Translate: I love learning languages,Sí
+188,188,Translate: No,¿Cómo estás?
+189,189,Translate: I love learning languages,Me encanta aprender idiomas
+190,190,Translate: Thank you,Por favor
+191,191,Translate: Goodbye,Hola
+192,192,Translate: Hello,Me encanta aprender idiomas
+193,193,Translate: No,Adiós
+194,194,Translate: Water,Agua
+195,195,Translate: Water,Agua
+196,196,Translate: I love learning languages,No
+197,197,Translate: Please,Sí
+198,198,Translate: Hello,Me encanta aprender idiomas
+199,199,Translate: Hello,Gracias
+200,200,Translate: Thank you,Agua
+201,201,Translate: Hello,Gracias
+202,202,Translate: Hello,Sí
+203,203,Translate: Good morning,Por favor
+204,204,Translate: Hello,Sí
+205,205,Translate: I love learning languages,Hola
+206,206,Translate: No,Buenos días
+207,207,Translate: Hello,Agua
+208,208,Translate: I love learning languages,Sí
+209,209,Translate: Water,Adiós
+210,210,Translate: Hello,Agua
+211,211,Translate: No,Adiós
+212,212,Translate: Thank you,Me encanta aprender idiomas
+213,213,Translate: Goodbye,Me encanta aprender idiomas
+214,214,Translate: Goodbye,Gracias
+215,215,Translate: Goodbye,No
+216,216,Translate: I love learning languages,Hola
+217,217,Translate: Hello,Me encanta aprender idiomas
+218,218,Translate: Water,Por favor
+219,219,Translate: No,Adiós
+220,220,Translate: Water,Me encanta aprender idiomas
+221,221,Translate: How are you?,Sí
+222,222,Translate: Good morning,Me encanta aprender idiomas
+223,223,Translate: Goodbye,Me encanta aprender idiomas
+224,224,Translate: Thank you,Buenos días
+225,225,Translate: I love learning languages,Por favor
+226,226,Translate: I love learning languages,No
+227,227,Translate: Yes,Por favor
+228,228,Translate: I love learning languages,Adiós
+229,229,Translate: Water,Gracias
+230,230,Translate: No,No
+231,231,Translate: How are you?,No
+232,232,Translate: Hello,¿Cómo estás?
+233,233,Translate: I love learning languages,No
+234,234,Translate: Good morning,Adiós
+235,235,Translate: Thank you,Gracias
+236,236,Translate: Yes,¿Cómo estás?
+237,237,Translate: Please,Me encanta aprender idiomas
+238,238,Translate: How are you?,¿Cómo estás?
+239,239,Translate: I love learning languages,Agua
+240,240,Translate: Please,Por favor
+241,241,Translate: Please,No
+242,242,Translate: Good morning,¿Cómo estás?
+243,243,Translate: How are you?,Sí
+244,244,Translate: I love learning languages,No
+245,245,Translate: Please,Gracias
+246,246,Translate: Hello,Por favor
+247,247,Translate: I love learning languages,No
+248,248,Translate: No,Agua
+249,249,Translate: Thank you,Sí
+250,250,Translate: Water,Gracias
+251,251,Translate: No,Adiós
+252,252,Translate: Thank you,No
+253,253,Translate: Goodbye,Buenos días
+254,254,Translate: Thank you,Hola
+255,255,Translate: Please,No
+256,256,Translate: I love learning languages,Hola
+257,257,Translate: Water,Gracias
+258,258,Translate: How are you?,Me encanta aprender idiomas
+259,259,Translate: How are you?,Me encanta aprender idiomas
+260,260,Translate: How are you?,Adiós
+261,261,Translate: How are you?,No
+262,262,Translate: How are you?,Sí
+263,263,Translate: No,Sí
+264,264,Translate: I love learning languages,Me encanta aprender idiomas
+265,265,Translate: Thank you,Sí
+266,266,Translate: Thank you,Buenos días
+267,267,Translate: Water,Gracias
+268,268,Translate: I love learning languages,No
+269,269,Translate: Yes,¿Cómo estás?
+270,270,Translate: Good morning,Por favor
+271,271,Translate: Water,Por favor
+272,272,Translate: I love learning languages,Agua
+273,273,Translate: No,Agua
+274,274,Translate: I love learning languages,Agua
+275,275,Translate: Thank you,Buenos días
+276,276,Translate: No,Agua
+277,277,Translate: Good morning,Buenos días
+278,278,Translate: Thank you,Buenos días
+279,279,Translate: I love learning languages,Por favor
+280,280,Translate: Water,Me encanta aprender idiomas
+281,281,Translate: Hello,Me encanta aprender idiomas
+282,282,Translate: No,Agua
+283,283,Translate: Thank you,Buenos días
+284,284,Translate: How are you?,Me encanta aprender idiomas
+285,285,Translate: Thank you,Me encanta aprender idiomas
+286,286,Translate: Please,Por favor
+287,287,Translate: Goodbye,Gracias
+288,288,Translate: No,¿Cómo estás?
+289,289,Translate: Good morning,Por favor
+290,290,Translate: Yes,No
+291,291,Translate: How are you?,Hola
+292,292,Translate: I love learning languages,No
+293,293,Translate: I love learning languages,Me encanta aprender idiomas
+294,294,Translate: Thank you,Buenos días
+295,295,Translate: Goodbye,Adiós
+296,296,Translate: Yes,Por favor
+297,297,Translate: No,Adiós
+298,298,Translate: Yes,No
+299,299,Translate: Hello,Por favor
+300,300,Translate: Goodbye,¿Cómo estás?
+301,301,Translate: Yes,Me encanta aprender idiomas
+302,302,Translate: Good morning,Me encanta aprender idiomas
+303,303,Translate: Water,Adiós
+304,304,Translate: I love learning languages,Adiós
+305,305,Translate: No,Buenos días
+306,306,Translate: Goodbye,Me encanta aprender idiomas
+307,307,Translate: I love learning languages,Me encanta aprender idiomas
+308,308,Translate: Goodbye,Hola
+309,309,Translate: No,Hola
+310,310,Translate: Goodbye,Me encanta aprender idiomas
+311,311,Translate: Good morning,Gracias
+312,312,Translate: Water,Agua
+313,313,Translate: Water,Agua
+314,314,Translate: How are you?,Me encanta aprender idiomas
+315,315,Translate: I love learning languages,Sí
+316,316,Translate: No,Buenos días
+317,317,Translate: No,Hola
+318,318,Translate: Thank you,Me encanta aprender idiomas
+319,319,Translate: How are you?,¿Cómo estás?
+320,320,Translate: Yes,Gracias
+321,321,Translate: Goodbye,¿Cómo estás?
+322,322,Translate: Water,Gracias
+323,323,Translate: Thank you,Gracias
+324,324,Translate: Goodbye,Buenos días
+325,325,Translate: Thank you,No
+326,326,Translate: I love learning languages,Agua
+327,327,Translate: Yes,Sí
+328,328,Translate: Water,Sí
+329,329,Translate: Yes,¿Cómo estás?
+330,330,Translate: Water,Me encanta aprender idiomas
+331,331,Translate: Thank you,No
+332,332,Translate: No,Me encanta aprender idiomas
+333,333,Translate: No,Adiós
+334,334,Translate: No,Sí
+335,335,Translate: Hello,Me encanta aprender idiomas
+336,336,Translate: Good morning,Por favor
+337,337,Translate: Good morning,¿Cómo estás?
+338,338,Translate: Goodbye,Adiós
+339,339,Translate: Yes,¿Cómo estás?
+340,340,Translate: Good morning,Me encanta aprender idiomas
+341,341,Translate: Good morning,Agua
+342,342,Translate: Hello,Agua
+343,343,Translate: No,Agua
+344,344,Translate: Goodbye,Me encanta aprender idiomas
+345,345,Translate: Please,Por favor
+346,346,Translate: Thank you,Adiós
+347,347,Translate: I love learning languages,Por favor
+348,348,Translate: I love learning languages,Adiós
+349,349,Translate: No,No
+350,350,Translate: How are you?,Gracias
+351,351,Translate: Goodbye,¿Cómo estás?
+352,352,Translate: I love learning languages,Me encanta aprender idiomas
+353,353,Translate: No,Agua
+354,354,Translate: Please,Buenos días
+355,355,Translate: Goodbye,Buenos días
+356,356,Translate: Goodbye,Por favor
+357,357,Translate: I love learning languages,Adiós
+358,358,Translate: How are you?,No
+359,359,Translate: Thank you,Me encanta aprender idiomas
+360,360,Translate: Water,¿Cómo estás?
+361,361,Translate: I love learning languages,Por favor
+362,362,Translate: I love learning languages,Sí
+363,363,Translate: Hello,Sí
+364,364,Translate: Please,Por favor
+365,365,Translate: How are you?,Por favor
+366,366,Translate: How are you?,Sí
+367,367,Translate: I love learning languages,Gracias
+368,368,Translate: Good morning,Por favor
+369,369,Translate: Hello,Gracias
+370,370,Translate: Goodbye,Adiós
+371,371,Translate: Thank you,No
+372,372,Translate: Good morning,¿Cómo estás?
+373,373,Translate: No,Sí
+374,374,Translate: Yes,¿Cómo estás?
+375,375,Translate: Good morning,¿Cómo estás?
+376,376,Translate: Please,Hola
+377,377,Translate: Good morning,Me encanta aprender idiomas
+378,378,Translate: I love learning languages,Gracias
+379,379,Translate: Goodbye,Adiós
+380,380,Translate: No,Adiós
+381,381,Translate: Thank you,Me encanta aprender idiomas
+382,382,Translate: Please,Adiós
+383,383,Translate: Yes,¿Cómo estás?
+384,384,Translate: How are you?,Adiós
+385,385,Translate: How are you?,Agua
+386,386,Translate: How are you?,Adiós
+387,387,Translate: Water,Adiós
+388,388,Translate: I love learning languages,¿Cómo estás?
+389,389,Translate: Good morning,No
+390,390,Translate: I love learning languages,¿Cómo estás?
+391,391,Translate: Thank you,No
+392,392,Translate: Water,Adiós
+393,393,Translate: I love learning languages,Buenos días
+394,394,Translate: Good morning,Gracias
+395,395,Translate: Thank you,Buenos días
+396,396,Translate: Water,¿Cómo estás?
+397,397,Translate: How are you?,Adiós
+398,398,Translate: No,Por favor
+399,399,Translate: How are you?,Gracias
+400,400,Translate: I love learning languages,Buenos días
+401,401,Translate: Thank you,Me encanta aprender idiomas
+402,402,Translate: I love learning languages,Por favor
+403,403,Translate: Water,Hola
+404,404,Translate: Goodbye,Me encanta aprender idiomas
+405,405,Translate: Hello,Por favor
+406,406,Translate: Yes,Me encanta aprender idiomas
+407,407,Translate: Please,Me encanta aprender idiomas
+408,408,Translate: Goodbye,Buenos días
+409,409,Translate: Thank you,Sí
+410,410,Translate: Good morning,Gracias
+411,411,Translate: I love learning languages,Hola
+412,412,Translate: Thank you,¿Cómo estás?
+413,413,Translate: Hello,Gracias
+414,414,Translate: Hello,Sí
+415,415,Translate: Hello,Gracias
+416,416,Translate: I love learning languages,¿Cómo estás?
+417,417,Translate: Please,Buenos días
+418,418,Translate: Goodbye,Adiós
+419,419,Translate: I love learning languages,Buenos días
+420,420,Translate: Hello,¿Cómo estás?
+421,421,Translate: Please,Buenos días
+422,422,Translate: Water,Sí
+423,423,Translate: Water,Adiós
+424,424,Translate: Yes,Por favor
+425,425,Translate: Thank you,Me encanta aprender idiomas
+426,426,Translate: Please,Agua
+427,427,Translate: Water,No
+428,428,Translate: I love learning languages,Adiós
+429,429,Translate: Good morning,Por favor
+430,430,Translate: Yes,Agua
+431,431,Translate: How are you?,Adiós
+432,432,Translate: Please,Adiós
+433,433,Translate: Water,Por favor
+434,434,Translate: I love learning languages,Gracias
+435,435,Translate: I love learning languages,¿Cómo estás?
+436,436,Translate: Please,Me encanta aprender idiomas
+437,437,Translate: I love learning languages,Gracias
+438,438,Translate: Yes,Sí
+439,439,Translate: I love learning languages,Adiós
+440,440,Translate: Good morning,Me encanta aprender idiomas
+441,441,Translate: Please,No
+442,442,Translate: Goodbye,Buenos días
+443,443,Translate: Goodbye,Me encanta aprender idiomas
+444,444,Translate: I love learning languages,¿Cómo estás?
+445,445,Translate: I love learning languages,¿Cómo estás?
+446,446,Translate: Good morning,Buenos días
+447,447,Translate: Water,No
+448,448,Translate: Please,Gracias
+449,449,Translate: I love learning languages,Por favor
+450,450,Translate: No,Me encanta aprender idiomas
+451,451,Translate: Yes,Por favor
+452,452,Translate: Water,Buenos días
+453,453,Translate: Water,Adiós
+454,454,Translate: No,Gracias
+455,455,Translate: I love learning languages,Agua
+456,456,Translate: I love learning languages,Gracias
+457,457,Translate: Please,Sí
+458,458,Translate: Yes,Por favor
+459,459,Translate: Thank you,Me encanta aprender idiomas
+460,460,Translate: How are you?,No
+461,461,Translate: No,Sí
+462,462,Translate: Good morning,Agua
+463,463,Translate: Thank you,Agua
+464,464,Translate: Yes,Hola
+465,465,Translate: Please,Por favor
+466,466,Translate: Yes,Hola
+467,467,Translate: No,No
+468,468,Translate: I love learning languages,¿Cómo estás?
+469,469,Translate: Yes,¿Cómo estás?
+470,470,Translate: No,Gracias
+471,471,Translate: Thank you,No
+472,472,Translate: I love learning languages,Hola
+473,473,Translate: Please,Sí
+474,474,Translate: Yes,Agua
+475,475,Translate: Water,Me encanta aprender idiomas
+476,476,Translate: Thank you,Buenos días
+477,477,Translate: Goodbye,Adiós
+478,478,Translate: Please,Hola
+479,479,Translate: I love learning languages,¿Cómo estás?
+480,480,Translate: Hello,No
+481,481,Translate: Good morning,¿Cómo estás?
+482,482,Translate: I love learning languages,No
+483,483,Translate: Hello,Buenos días
+484,484,Translate: Water,Gracias
+485,485,Translate: How are you?,¿Cómo estás?
+486,486,Translate: Yes,Por favor
+487,487,Translate: Yes,¿Cómo estás?
+488,488,Translate: Good morning,Sí
+489,489,Translate: I love learning languages,¿Cómo estás?
+490,490,Translate: Thank you,Adiós
+491,491,Translate: How are you?,Buenos días
+492,492,Translate: I love learning languages,Buenos días
+493,493,Translate: How are you?,Buenos días
+494,494,Translate: Goodbye,Me encanta aprender idiomas
+495,495,Translate: Thank you,Me encanta aprender idiomas
+496,496,Translate: Yes,Gracias
+497,497,Translate: Water,Me encanta aprender idiomas
+498,498,Translate: I love learning languages,Por favor
+499,499,Translate: Please,Gracias
+500,500,Translate: Goodbye,Sí
+501,501,Translate: Please,Me encanta aprender idiomas
+502,502,Translate: Yes,Agua
+503,503,Translate: How are you?,Gracias
+504,504,Translate: Yes,No
+505,505,Translate: How are you?,Hola
+506,506,Translate: Thank you,Gracias
+507,507,Translate: Thank you,Agua
+508,508,Translate: Goodbye,Me encanta aprender idiomas
+509,509,Translate: Thank you,Por favor
+510,510,Translate: I love learning languages,Buenos días
+511,511,Translate: Yes,Me encanta aprender idiomas
+512,512,Translate: Water,Gracias
+513,513,Translate: Please,Hola
+514,514,Translate: Please,No
+515,515,Translate: Goodbye,Sí
+516,516,Translate: How are you?,Por favor
+517,517,Translate: Thank you,Adiós
+518,518,Translate: Hello,Por favor
+519,519,Translate: Yes,¿Cómo estás?
+520,520,Translate: No,Sí
+521,521,Translate: Water,Gracias
+522,522,Translate: Water,Adiós
+523,523,Translate: I love learning languages,Buenos días
+524,524,Translate: Please,Gracias
+525,525,Translate: Yes,Agua
+526,526,Translate: Please,Me encanta aprender idiomas
+527,527,Translate: I love learning languages,Me encanta aprender idiomas
+528,528,Translate: Water,No
+529,529,Translate: How are you?,Gracias
+530,530,Translate: Yes,¿Cómo estás?
+531,531,Translate: I love learning languages,No
+532,532,Translate: How are you?,Agua
+533,1,Translate: Water,Sí
+534,2,Translate: Please,Adiós
+535,3,Translate: How are you?,Me encanta aprender idiomas
+536,4,Translate: How are you?,Gracias
+537,5,Translate: Please,Buenos días
+538,6,Translate: Hello,Adiós
+539,7,Translate: Hello,Sí
+540,8,Translate: Yes,Adiós
+541,9,Translate: No,Sí
+542,10,Translate: Water,Me encanta aprender idiomas
+543,11,Translate: Good morning,Adiós
+544,12,Translate: Please,No
+545,13,Translate: Water,Buenos días
+546,14,Translate: How are you?,¿Cómo estás?
+547,15,Translate: Goodbye,Hola
+548,16,Translate: Good morning,No
+549,17,Translate: Please,No
+550,18,Translate: Goodbye,Por favor
+551,19,Translate: Thank you,Gracias
+552,20,Translate: Goodbye,Adiós
+553,21,Translate: Good morning,Gracias
+554,22,Translate: Yes,Sí
+555,23,Translate: I love learning languages,Agua
+556,24,Translate: Good morning,¿Cómo estás?
+557,25,Translate: Thank you,Buenos días
+558,26,Translate: Thank you,Por favor
+559,27,Translate: I love learning languages,Me encanta aprender idiomas
+560,28,Translate: Good morning,¿Cómo estás?
+561,29,Translate: Thank you,Buenos días
+562,30,Translate: Thank you,Gracias
+563,31,Translate: No,Me encanta aprender idiomas
+564,32,Translate: I love learning languages,Por favor
+565,33,Translate: Please,¿Cómo estás?
+566,34,Translate: Water,Buenos días
+567,35,Translate: Yes,No
+568,36,Translate: Good morning,Me encanta aprender idiomas
+569,37,Translate: I love learning languages,Agua
+570,38,Translate: Please,No
+571,39,Translate: Hello,Agua
+572,40,Translate: Water,No
+573,41,Translate: I love learning languages,Sí
+574,42,Translate: How are you?,Gracias
+575,43,Translate: Yes,Sí
+576,44,Translate: How are you?,Por favor
+577,45,Translate: Please,No
+578,46,Translate: How are you?,Agua
+579,47,Translate: Good morning,Adiós
+580,48,Translate: Goodbye,Adiós
+581,49,Translate: Hello,Sí
+582,50,Translate: Water,¿Cómo estás?
+583,51,Translate: I love learning languages,Agua
+584,52,Translate: Please,¿Cómo estás?
+585,53,Translate: Yes,Gracias
+586,54,Translate: Thank you,Por favor
+587,55,Translate: No,Adiós
+588,56,Translate: Good morning,No
+589,57,Translate: No,No
+590,58,Translate: Goodbye,Agua
+591,59,Translate: I love learning languages,Gracias
+592,60,Translate: Water,¿Cómo estás?
+593,61,Translate: Hello,Por favor
+594,62,Translate: No,¿Cómo estás?
+595,63,Translate: Goodbye,Agua
+596,64,Translate: Good morning,Gracias
+597,65,Translate: Thank you,Agua
+598,66,Translate: Please,Buenos días
+599,67,Translate: No,Buenos días
+600,68,Translate: I love learning languages,Agua
+601,69,Translate: Thank you,¿Cómo estás?
+602,70,Translate: Good morning,¿Cómo estás?
+603,71,Translate: Good morning,Me encanta aprender idiomas
+604,72,Translate: Good morning,Sí
+605,73,Translate: No,Adiós
+606,74,Translate: How are you?,Adiós
+607,75,Translate: Yes,Me encanta aprender idiomas
+608,76,Translate: Water,Sí
+609,77,Translate: How are you?,Por favor
+610,78,Translate: Please,Buenos días
+611,79,Translate: Goodbye,Sí
+612,80,Translate: How are you?,Me encanta aprender idiomas
+613,81,Translate: How are you?,Sí
+614,82,Translate: I love learning languages,Me encanta aprender idiomas
+615,83,Translate: How are you?,Buenos días
+616,84,Translate: Water,Buenos días
+617,85,Translate: I love learning languages,Adiós
+618,86,Translate: No,Hola
+619,87,Translate: Hello,Sí
+620,88,Translate: Please,Adiós
+621,89,Translate: Please,Me encanta aprender idiomas
+622,90,Translate: Good morning,Adiós
+623,91,Translate: Thank you,Sí
+624,92,Translate: Please,No
+625,93,Translate: I love learning languages,Por favor
+626,94,Translate: Thank you,No
+627,95,Translate: Water,Por favor
+628,96,Translate: I love learning languages,Gracias
+629,97,Translate: No,Me encanta aprender idiomas
+630,98,Translate: How are you?,Adiós
+631,99,Translate: Yes,Adiós
+632,100,Translate: Good morning,Me encanta aprender idiomas
+633,101,Translate: Water,Sí
+634,102,Translate: Thank you,¿Cómo estás?
+635,103,Translate: Thank you,¿Cómo estás?
+636,104,Translate: Please,¿Cómo estás?
+637,105,Translate: No,Adiós
+638,106,Translate: Water,Me encanta aprender idiomas
+639,107,Translate: I love learning languages,Gracias
+640,108,Translate: Water,Por favor
+641,109,Translate: I love learning languages,Sí
+642,110,Translate: Please,Me encanta aprender idiomas
+643,111,Translate: Thank you,No
+644,112,Translate: Water,Me encanta aprender idiomas
+645,113,Translate: Goodbye,Me encanta aprender idiomas
+646,114,Translate: How are you?,Sí
+647,115,Translate: No,Por favor
+648,116,Translate: Yes,Adiós
+649,117,Translate: Yes,Por favor
+650,118,Translate: I love learning languages,Por favor
+651,119,Translate: Good morning,Agua
+652,120,Translate: Water,Agua
+653,121,Translate: Good morning,Hola
+654,122,Translate: No,¿Cómo estás?
+655,123,Translate: No,Buenos días
+656,124,Translate: I love learning languages,Sí
+657,125,Translate: Yes,Hola
+658,126,Translate: Thank you,Me encanta aprender idiomas
+659,127,Translate: I love learning languages,Por favor
+660,128,Translate: Goodbye,Gracias
+661,129,Translate: How are you?,Gracias
+662,130,Translate: I love learning languages,Por favor
+663,131,Translate: Please,Adiós
+664,132,Translate: Good morning,Por favor
+665,133,Translate: Yes,Buenos días
+666,134,Translate: Yes,Gracias
+667,135,Translate: Hello,Buenos días
+668,136,Translate: Water,Gracias
+669,137,Translate: How are you?,Adiós
+670,138,Translate: Thank you,Gracias
+671,139,Translate: Hello,Me encanta aprender idiomas
+672,140,Translate: Thank you,No
+673,141,Translate: Thank you,Me encanta aprender idiomas
+674,142,Translate: I love learning languages,Adiós
+675,143,Translate: No,Adiós
+676,144,Translate: Good morning,Buenos días
+677,145,Translate: Thank you,Gracias
+678,146,Translate: Hello,Buenos días
+679,147,Translate: Yes,Gracias
+680,148,Translate: No,¿Cómo estás?
+681,149,Translate: How are you?,Agua
+682,150,Translate: Please,No
+683,151,Translate: Water,Sí
+684,152,Translate: Goodbye,Adiós
+685,153,Translate: Goodbye,Agua
+686,154,Translate: Please,¿Cómo estás?
+687,155,Translate: Please,Adiós
+688,156,Translate: Water,Agua
+689,157,Translate: Water,Hola
+690,158,Translate: Goodbye,Gracias
+691,159,Translate: I love learning languages,Por favor
+692,160,Translate: Yes,Agua
+693,161,Translate: I love learning languages,No
+694,162,Translate: Thank you,Por favor
+695,163,Translate: No,Agua
+696,164,Translate: Water,Me encanta aprender idiomas
+697,165,Translate: Water,Agua
+698,166,Translate: Good morning,Buenos días
+699,167,Translate: Good morning,Gracias
+700,168,Translate: Please,Gracias
+701,169,Translate: How are you?,Adiós
+702,170,Translate: No,Me encanta aprender idiomas
+703,171,Translate: How are you?,Adiós
+704,172,Translate: Good morning,No
+705,173,Translate: Water,Hola
+706,174,Translate: Water,¿Cómo estás?
+707,175,Translate: Yes,Me encanta aprender idiomas
+708,176,Translate: I love learning languages,Me encanta aprender idiomas
+709,177,Translate: I love learning languages,Sí
+710,178,Translate: No,Hola
+711,179,Translate: Good morning,Gracias
+712,180,Translate: Thank you,Agua
+713,181,Translate: Please,¿Cómo estás?
+714,182,Translate: No,Agua
+715,183,Translate: I love learning languages,Buenos días
+716,184,Translate: Water,Sí
+717,185,Translate: How are you?,Agua
+718,186,Translate: Hello,Por favor
+719,187,Translate: Water,Por favor
+720,188,Translate: Goodbye,Sí
+721,189,Translate: Yes,¿Cómo estás?
+722,190,Translate: How are you?,Me encanta aprender idiomas
+723,191,Translate: Goodbye,Agua
+724,192,Translate: Water,No
+725,193,Translate: Please,Buenos días
+726,194,Translate: Please,Agua
+727,195,Translate: Goodbye,Buenos días
+728,196,Translate: How are you?,Adiós
+729,197,Translate: Hello,Sí
+730,198,Translate: No,Me encanta aprender idiomas
+731,199,Translate: How are you?,Buenos días
+732,200,Translate: Thank you,Hola
+733,201,Translate: Thank you,¿Cómo estás?
+734,202,Translate: No,¿Cómo estás?
+735,203,Translate: No,Me encanta aprender idiomas
+736,204,Translate: Please,Me encanta aprender idiomas
+737,205,Translate: Please,Me encanta aprender idiomas
+738,206,Translate: Thank you,Gracias
+739,207,Translate: Please,¿Cómo estás?
+740,208,Translate: Hello,Por favor
+741,209,Translate: Thank you,Por favor
+742,210,Translate: Yes,Por favor
+743,211,Translate: Good morning,Sí
+744,212,Translate: Hello,Por favor
+745,213,Translate: Good morning,Agua
+746,214,Translate: Thank you,Gracias
+747,215,Translate: I love learning languages,Gracias
+748,216,Translate: I love learning languages,Agua
+749,217,Translate: Good morning,Buenos días
+750,218,Translate: Yes,Sí
+751,219,Translate: Good morning,Me encanta aprender idiomas
+752,220,Translate: How are you?,Agua
+753,221,Translate: No,No
+754,222,Translate: I love learning languages,¿Cómo estás?
+755,223,Translate: Yes,Buenos días
+756,224,Translate: How are you?,Adiós
+757,225,Translate: Goodbye,Me encanta aprender idiomas
+758,226,Translate: Thank you,Agua
+759,227,Translate: Goodbye,Sí
+760,228,Translate: How are you?,Me encanta aprender idiomas
+761,229,Translate: Yes,¿Cómo estás?
+762,230,Translate: How are you?,Adiós
+763,231,Translate: Good morning,Adiós
+764,232,Translate: Good morning,Buenos días
+765,233,Translate: Water,Me encanta aprender idiomas
+766,234,Translate: Hello,Gracias
+767,235,Translate: No,¿Cómo estás?
+768,236,Translate: Please,Agua
+769,237,Translate: Good morning,Adiós
+770,238,Translate: Thank you,¿Cómo estás?
+771,239,Translate: No,Agua
+772,240,Translate: How are you?,Adiós
+773,241,Translate: Thank you,Agua
+774,242,Translate: I love learning languages,Agua
+775,243,Translate: Please,Sí
+776,244,Translate: I love learning languages,Por favor
+777,245,Translate: I love learning languages,Adiós
+778,246,Translate: Yes,Por favor
+779,247,Translate: I love learning languages,Me encanta aprender idiomas
+780,248,Translate: Please,No
+781,249,Translate: Thank you,Agua
+782,250,Translate: No,Sí
+783,251,Translate: How are you?,Agua
+784,252,Translate: I love learning languages,¿Cómo estás?
+785,253,Translate: Hello,Por favor
+786,254,Translate: Water,Hola
+787,255,Translate: Water,Sí
+788,256,Translate: Yes,Agua
+789,257,Translate: Good morning,Hola
+790,258,Translate: Yes,Me encanta aprender idiomas
+791,259,Translate: Yes,No
+792,260,Translate: Hello,No
+793,261,Translate: I love learning languages,No
+794,262,Translate: Yes,Sí
+795,263,Translate: No,Buenos días
+796,264,Translate: No,Me encanta aprender idiomas
+797,265,Translate: Good morning,¿Cómo estás?
+798,266,Translate: Hello,¿Cómo estás?
+799,267,Translate: Goodbye,Me encanta aprender idiomas
+800,268,Translate: How are you?,Sí
+801,269,Translate: I love learning languages,Adiós
+802,270,Translate: I love learning languages,Por favor
+803,271,Translate: Yes,Adiós
+804,272,Translate: No,Gracias
+805,273,Translate: Goodbye,Sí
+806,274,Translate: I love learning languages,Gracias
+807,275,Translate: I love learning languages,¿Cómo estás?
+808,276,Translate: I love learning languages,Hola
+809,277,Translate: No,Sí
+810,278,Translate: I love learning languages,Gracias
+811,279,Translate: Please,Sí
+812,280,Translate: How are you?,No
+813,281,Translate: I love learning languages,Buenos días
+814,282,Translate: Please,Agua
+815,283,Translate: Thank you,Me encanta aprender idiomas
+816,284,Translate: I love learning languages,Adiós
+817,285,Translate: Thank you,Me encanta aprender idiomas
+818,286,Translate: No,Buenos días
+819,287,Translate: No,Agua
+820,288,Translate: Water,Me encanta aprender idiomas
+821,289,Translate: No,Buenos días
+822,290,Translate: Yes,¿Cómo estás?
+823,291,Translate: Hello,Sí
+824,292,Translate: I love learning languages,Sí
+825,293,Translate: No,No
+826,294,Translate: No,Gracias
+827,295,Translate: Thank you,Me encanta aprender idiomas
+828,296,Translate: Yes,¿Cómo estás?
+829,297,Translate: Good morning,Me encanta aprender idiomas
+830,298,Translate: Water,Hola
+831,299,Translate: I love learning languages,No
+832,300,Translate: I love learning languages,Por favor
+833,301,Translate: I love learning languages,No
+834,302,Translate: Good morning,No
+835,303,Translate: Thank you,Buenos días
+836,304,Translate: Goodbye,Me encanta aprender idiomas
+837,305,Translate: Yes,Buenos días
+838,306,Translate: I love learning languages,Me encanta aprender idiomas
+839,307,Translate: No,Me encanta aprender idiomas
+840,308,Translate: No,Me encanta aprender idiomas
+841,309,Translate: Please,Agua
+842,310,Translate: Please,Buenos días
+843,311,Translate: I love learning languages,Sí
+844,312,Translate: How are you?,No
+845,313,Translate: Good morning,Por favor
+846,314,Translate: Yes,¿Cómo estás?
+847,315,Translate: I love learning languages,Por favor
+848,316,Translate: Please,Adiós
+849,317,Translate: Thank you,No
+850,318,Translate: No,¿Cómo estás?
+851,319,Translate: Thank you,Gracias
+852,320,Translate: Goodbye,¿Cómo estás?
+853,321,Translate: Good morning,Agua
+854,322,Translate: Please,Me encanta aprender idiomas
+855,323,Translate: Yes,No
+856,324,Translate: Water,Por favor
+857,325,Translate: Goodbye,Por favor
+858,326,Translate: Good morning,¿Cómo estás?
+859,327,Translate: Good morning,Gracias
+860,328,Translate: Please,Agua
+861,329,Translate: Thank you,¿Cómo estás?
+862,330,Translate: I love learning languages,Hola
+863,331,Translate: Good morning,Agua
+864,332,Translate: No,Me encanta aprender idiomas
+865,333,Translate: Yes,Hola
+866,334,Translate: Water,Por favor
+867,335,Translate: Good morning,Me encanta aprender idiomas
+868,336,Translate: I love learning languages,Buenos días
+869,337,Translate: How are you?,¿Cómo estás?
+870,338,Translate: Good morning,Agua
+871,339,Translate: Please,Buenos días
+872,340,Translate: Thank you,Adiós
+873,341,Translate: I love learning languages,Por favor
+874,342,Translate: Yes,Sí
+875,343,Translate: No,Gracias
+876,344,Translate: Thank you,Gracias
+877,345,Translate: Good morning,Buenos días
+878,346,Translate: Good morning,Adiós
+879,347,Translate: Good morning,Me encanta aprender idiomas
+880,348,Translate: Water,Adiós
+881,349,Translate: I love learning languages,Por favor
+882,350,Translate: Good morning,Buenos días
+883,351,Translate: Goodbye,No
+884,352,Translate: How are you?,Sí
+885,353,Translate: Water,Adiós
+886,354,Translate: Thank you,Sí
+887,355,Translate: I love learning languages,Adiós
+888,356,Translate: How are you?,Por favor
+889,357,Translate: Goodbye,Sí
+890,358,Translate: How are you?,Agua
+891,359,Translate: Good morning,Gracias
+892,360,Translate: How are you?,Adiós
+893,361,Translate: Good morning,Por favor
+894,362,Translate: Goodbye,¿Cómo estás?
+895,363,Translate: No,Me encanta aprender idiomas
+896,364,Translate: Good morning,Me encanta aprender idiomas
+897,365,Translate: How are you?,Agua
+898,366,Translate: Please,¿Cómo estás?
+899,367,Translate: No,No
+900,368,Translate: Goodbye,Agua
+901,369,Translate: Yes,Agua
+902,370,Translate: I love learning languages,Adiós
+903,371,Translate: Yes,Gracias
+904,372,Translate: How are you?,Gracias
+905,373,Translate: Goodbye,Me encanta aprender idiomas
+906,374,Translate: Yes,Adiós
+907,375,Translate: Hello,Me encanta aprender idiomas
+908,376,Translate: Good morning,Agua
+909,377,Translate: Yes,Por favor
+910,378,Translate: Water,¿Cómo estás?
+911,379,Translate: Good morning,Por favor
+912,380,Translate: Thank you,Sí
+913,381,Translate: How are you?,Me encanta aprender idiomas
+914,382,Translate: Good morning,No
+915,383,Translate: I love learning languages,Gracias
+916,384,Translate: Hello,Adiós
+917,385,Translate: Please,¿Cómo estás?
+918,386,Translate: How are you?,Agua
+919,387,Translate: Thank you,Hola
+920,388,Translate: Thank you,Por favor
+921,389,Translate: Good morning,Buenos días
+922,390,Translate: Good morning,Hola
+923,391,Translate: Yes,Adiós
+924,392,Translate: Thank you,Sí
+925,393,Translate: Water,Hola
+926,394,Translate: How are you?,Me encanta aprender idiomas
+927,395,Translate: Water,Me encanta aprender idiomas
+928,396,Translate: Water,Sí
+929,397,Translate: How are you?,Agua
+930,398,Translate: Good morning,Adiós
+931,399,Translate: Please,Me encanta aprender idiomas
+932,400,Translate: Hello,Me encanta aprender idiomas
+933,401,Translate: Good morning,Por favor
+934,402,Translate: Water,Buenos días
+935,403,Translate: Goodbye,¿Cómo estás?
+936,404,Translate: Good morning,Agua
+937,405,Translate: I love learning languages,No
+938,406,Translate: Yes,Sí
+939,407,Translate: Yes,Agua
+940,408,Translate: No,Gracias
+941,409,Translate: I love learning languages,¿Cómo estás?
+942,410,Translate: I love learning languages,Me encanta aprender idiomas
+943,411,Translate: Thank you,Por favor
+944,412,Translate: Thank you,Hola
+945,413,Translate: Yes,Me encanta aprender idiomas
+946,414,Translate: Yes,Por favor
+947,415,Translate: Good morning,Agua
+948,416,Translate: No,¿Cómo estás?
+949,417,Translate: How are you?,Adiós
+950,418,Translate: No,¿Cómo estás?
+951,419,Translate: Goodbye,Sí
+952,420,Translate: Water,Me encanta aprender idiomas
+953,421,Translate: Yes,Sí
+954,422,Translate: I love learning languages,¿Cómo estás?
+955,423,Translate: Water,No
+956,424,Translate: How are you?,Me encanta aprender idiomas
+957,425,Translate: Water,Me encanta aprender idiomas
+958,426,Translate: I love learning languages,Por favor
+959,427,Translate: Good morning,Sí
+960,428,Translate: Please,Por favor
+961,429,Translate: I love learning languages,No
+962,430,Translate: Thank you,No
+963,431,Translate: Yes,Sí
+964,432,Translate: Goodbye,Gracias
+965,433,Translate: Goodbye,Sí
+966,434,Translate: Thank you,Hola
+967,435,Translate: Hello,Gracias
+968,436,Translate: Goodbye,¿Cómo estás?
+969,437,Translate: No,Sí
+970,438,Translate: Yes,Hola
+971,439,Translate: Water,Me encanta aprender idiomas
+972,440,Translate: I love learning languages,Sí
+973,441,Translate: Yes,Adiós
+974,442,Translate: Goodbye,Adiós
+975,443,Translate: Thank you,Me encanta aprender idiomas
+976,444,Translate: Good morning,Agua
+977,445,Translate: Hello,Gracias
+978,446,Translate: Please,Hola
+979,447,Translate: Yes,Me encanta aprender idiomas
+980,448,Translate: Water,Me encanta aprender idiomas
+981,449,Translate: Thank you,Me encanta aprender idiomas
+982,450,Translate: No,Agua
+983,451,Translate: Please,Buenos días
+984,452,Translate: Yes,Adiós
+985,453,Translate: Water,¿Cómo estás?
+986,454,Translate: Good morning,No
+987,455,Translate: Good morning,Por favor
+988,456,Translate: How are you?,Buenos días
+989,457,Translate: No,Por favor
+990,458,Translate: Goodbye,No
+991,459,Translate: No,Sí
+992,460,Translate: Yes,Agua
+993,461,Translate: Good morning,Sí
+994,462,Translate: Good morning,Gracias
+995,463,Translate: No,Buenos días
+996,464,Translate: Please,Adiós
+997,465,Translate: Good morning,No
+998,466,Translate: Goodbye,Me encanta aprender idiomas
+999,467,Translate: How are you?,Sí
+1000,468,Translate: Thank you,Por favor
+1001,469,Translate: How are you?,Adiós
+1002,470,Translate: Goodbye,¿Cómo estás?
+1003,471,Translate: I love learning languages,Me encanta aprender idiomas
+1004,472,Translate: Thank you,Buenos días
+1005,473,Translate: Yes,Hola
+1006,474,Translate: How are you?,No
+1007,475,Translate: Please,Adiós
+1008,476,Translate: I love learning languages,Me encanta aprender idiomas
+1009,477,Translate: Yes,Agua
+1010,478,Translate: Goodbye,Buenos días
+1011,479,Translate: Good morning,No
+1012,480,Translate: Please,Gracias
+1013,481,Translate: I love learning languages,Buenos días
+1014,482,Translate: Yes,Me encanta aprender idiomas
+1015,483,Translate: Good morning,Por favor
+1016,484,Translate: Goodbye,Gracias
+1017,485,Translate: Yes,Gracias
+1018,486,Translate: I love learning languages,Por favor
+1019,487,Translate: Hello,Sí
+1020,488,Translate: I love learning languages,Gracias
+1021,489,Translate: Good morning,Agua
+1022,490,Translate: Good morning,Sí
+1023,491,Translate: How are you?,No
+1024,492,Translate: Goodbye,Sí
+1025,493,Translate: Thank you,Me encanta aprender idiomas
+1026,494,Translate: Goodbye,Sí
+1027,495,Translate: Thank you,Hola
+1028,496,Translate: Goodbye,Gracias
+1029,497,Translate: Thank you,Adiós
+1030,498,Translate: How are you?,No
+1031,499,Translate: Hello,¿Cómo estás?
+1032,500,Translate: Water,Me encanta aprender idiomas
+1033,501,Translate: No,Por favor
+1034,502,Translate: Good morning,Por favor
+1035,503,Translate: Hello,Por favor
+1036,504,Translate: I love learning languages,Adiós
+1037,505,Translate: No,Me encanta aprender idiomas
+1038,506,Translate: Good morning,Me encanta aprender idiomas
+1039,507,Translate: Please,Gracias
+1040,508,Translate: I love learning languages,Buenos días
+1041,509,Translate: Please,Por favor
+1042,510,Translate: No,Por favor
+1043,511,Translate: Hello,Sí
+1044,512,Translate: Goodbye,Por favor
+1045,513,Translate: Thank you,Me encanta aprender idiomas
+1046,514,Translate: Hello,Me encanta aprender idiomas
+1047,515,Translate: I love learning languages,Buenos días
+1048,516,Translate: Yes,Agua
+1049,517,Translate: Water,Adiós
+1050,518,Translate: Thank you,Buenos días
+1051,519,Translate: Thank you,Buenos días
+1052,520,Translate: Thank you,¿Cómo estás?
+1053,521,Translate: Please,¿Cómo estás?
+1054,522,Translate: Water,Sí
+1055,523,Translate: Please,Me encanta aprender idiomas
+1056,524,Translate: Please,Adiós
+1057,525,Translate: No,Adiós
+1058,526,Translate: I love learning languages,Hola
+1059,527,Translate: Goodbye,¿Cómo estás?
+1060,528,Translate: No,Me encanta aprender idiomas
+1061,529,Translate: Goodbye,Hola
+1062,530,Translate: Please,No
+1063,531,Translate: I love learning languages,Por favor
+1064,532,Translate: Thank you,Sí
+1065,1,Translate: Hello,Agua
+1066,2,Translate: Please,Hola
+1067,3,Translate: Goodbye,Adiós
+1068,4,Translate: Water,Sí
+1069,5,Translate: Hello,Agua
+1070,6,Translate: Water,Adiós
+1071,7,Translate: Please,Sí
+1072,8,Translate: Please,Buenos días
+1073,9,Translate: How are you?,Gracias
+1074,10,Translate: Please,Buenos días
+1075,11,Translate: How are you?,No
+1076,12,Translate: Please,Sí
+1077,13,Translate: Hello,Agua
+1078,14,Translate: Please,No
+1079,15,Translate: Hello,Buenos días
+1080,16,Translate: Please,¿Cómo estás?
+1081,17,Translate: Hello,Adiós
+1082,18,Translate: Water,Agua
+1083,19,Translate: Hello,No
+1084,20,Translate: How are you?,Gracias
+1085,21,Translate: I love learning languages,No
+1086,22,Translate: Good morning,Agua
+1087,23,Translate: Good morning,Agua
+1088,24,Translate: Yes,Buenos días
+1089,25,Translate: Good morning,Adiós
+1090,26,Translate: Goodbye,Por favor
+1091,27,Translate: Please,Agua
+1092,28,Translate: I love learning languages,Buenos días
+1093,29,Translate: No,Buenos días
+1094,30,Translate: Water,Me encanta aprender idiomas
+1095,31,Translate: Yes,Buenos días
+1096,32,Translate: Water,Me encanta aprender idiomas
+1097,33,Translate: Thank you,Agua
+1098,34,Translate: Please,Buenos días
+1099,35,Translate: Good morning,Por favor
+1100,36,Translate: I love learning languages,Buenos días
+1101,37,Translate: Yes,Agua
+1102,38,Translate: No,¿Cómo estás?
+1103,39,Translate: Good morning,No
+1104,40,Translate: Please,¿Cómo estás?
+1105,41,Translate: No,Hola
+1106,42,Translate: Thank you,Sí
+1107,43,Translate: Goodbye,Agua
+1108,44,Translate: No,Agua
+1109,45,Translate: Please,Adiós
+1110,46,Translate: Goodbye,Buenos días
+1111,47,Translate: Goodbye,Hola
+1112,48,Translate: I love learning languages,Gracias
+1113,49,Translate: Goodbye,Hola
+1114,50,Translate: Thank you,Sí
+1115,51,Translate: Goodbye,Gracias
+1116,52,Translate: Goodbye,Adiós
+1117,53,Translate: Goodbye,Sí
+1118,54,Translate: Water,Hola
+1119,55,Translate: Hello,No
+1120,56,Translate: I love learning languages,Hola
+1121,57,Translate: How are you?,Sí
+1122,58,Translate: Yes,Adiós
+1123,59,Translate: I love learning languages,Agua
+1124,60,Translate: Goodbye,No
+1125,61,Translate: Thank you,Gracias
+1126,62,Translate: No,No
+1127,63,Translate: How are you?,Adiós
+1128,64,Translate: Water,Adiós
+1129,65,Translate: No,Hola
+1130,66,Translate: Water,Adiós
+1131,67,Translate: Please,Gracias
+1132,68,Translate: I love learning languages,Hola
+1133,69,Translate: Goodbye,Me encanta aprender idiomas
+1134,70,Translate: How are you?,Sí
+1135,71,Translate: Please,Por favor
+1136,72,Translate: How are you?,¿Cómo estás?
+1137,73,Translate: How are you?,Me encanta aprender idiomas
+1138,74,Translate: How are you?,Adiós
+1139,75,Translate: Goodbye,No
+1140,76,Translate: I love learning languages,Sí
+1141,77,Translate: Thank you,Por favor
+1142,78,Translate: Goodbye,¿Cómo estás?
+1143,79,Translate: I love learning languages,No
+1144,80,Translate: No,Sí
+1145,81,Translate: Thank you,Por favor
+1146,82,Translate: Water,Sí
+1147,83,Translate: Good morning,Me encanta aprender idiomas
+1148,84,Translate: Good morning,Buenos días
+1149,85,Translate: Thank you,Agua
+1150,86,Translate: Yes,No
+1151,87,Translate: Yes,Sí
+1152,88,Translate: I love learning languages,Me encanta aprender idiomas
+1153,89,Translate: Yes,No
+1154,90,Translate: Thank you,Me encanta aprender idiomas
+1155,91,Translate: Thank you,Buenos días
+1156,92,Translate: Goodbye,No
+1157,93,Translate: I love learning languages,Me encanta aprender idiomas
+1158,94,Translate: Water,No
+1159,95,Translate: Water,Gracias
+1160,96,Translate: Please,No
+1161,97,Translate: Hello,Por favor
+1162,98,Translate: How are you?,Hola
+1163,99,Translate: Good morning,Gracias
+1164,100,Translate: Good morning,Me encanta aprender idiomas
+1165,101,Translate: Yes,Hola
+1166,102,Translate: Goodbye,Sí
+1167,103,Translate: Yes,No
+1168,104,Translate: Water,Agua
+1169,105,Translate: I love learning languages,Por favor
+1170,106,Translate: How are you?,Gracias
+1171,107,Translate: Water,Sí
+1172,108,Translate: No,Gracias
+1173,109,Translate: How are you?,Sí
+1174,110,Translate: Yes,Sí
+1175,111,Translate: Goodbye,Agua
+1176,112,Translate: Yes,Adiós
+1177,113,Translate: How are you?,Adiós
+1178,114,Translate: Goodbye,Adiós
+1179,115,Translate: Water,Agua
+1180,116,Translate: Goodbye,Adiós
+1181,117,Translate: I love learning languages,Hola
+1182,118,Translate: I love learning languages,Sí
+1183,119,Translate: Water,Gracias
+1184,120,Translate: Yes,Agua
+1185,121,Translate: Thank you,No
+1186,122,Translate: No,¿Cómo estás?
+1187,123,Translate: How are you?,Sí
+1188,124,Translate: Thank you,Me encanta aprender idiomas
+1189,125,Translate: How are you?,No
+1190,126,Translate: How are you?,Agua
+1191,127,Translate: Thank you,Me encanta aprender idiomas
+1192,128,Translate: Goodbye,Hola
+1193,129,Translate: Good morning,Me encanta aprender idiomas
+1194,130,Translate: Water,Buenos días
+1195,131,Translate: How are you?,Me encanta aprender idiomas
+1196,132,Translate: Thank you,Adiós
+1197,133,Translate: How are you?,Adiós
+1198,134,Translate: I love learning languages,Me encanta aprender idiomas
+1199,135,Translate: Good morning,Adiós
+1200,136,Translate: No,Gracias
+1201,137,Translate: Yes,Gracias
+1202,138,Translate: I love learning languages,Gracias
+1203,139,Translate: Water,Agua
+1204,140,Translate: How are you?,Me encanta aprender idiomas
+1205,141,Translate: How are you?,Me encanta aprender idiomas
+1206,142,Translate: Please,Sí
+1207,143,Translate: Goodbye,Me encanta aprender idiomas
+1208,144,Translate: Goodbye,Me encanta aprender idiomas
+1209,145,Translate: Please,Me encanta aprender idiomas
+1210,146,Translate: No,Por favor
+1211,147,Translate: No,Por favor
+1212,148,Translate: I love learning languages,Agua
+1213,149,Translate: I love learning languages,No
+1214,150,Translate: How are you?,Hola
+1215,151,Translate: Yes,No
+1216,152,Translate: How are you?,Buenos días
+1217,153,Translate: Yes,No
+1218,154,Translate: Water,Adiós
+1219,155,Translate: How are you?,Hola
+1220,156,Translate: How are you?,Me encanta aprender idiomas
+1221,157,Translate: How are you?,Me encanta aprender idiomas
+1222,158,Translate: No,Buenos días
+1223,159,Translate: Please,Adiós
+1224,160,Translate: No,Hola
+1225,161,Translate: Good morning,Gracias
+1226,162,Translate: Good morning,¿Cómo estás?
+1227,163,Translate: Water,Adiós
+1228,164,Translate: I love learning languages,Agua
+1229,165,Translate: Goodbye,Por favor
+1230,166,Translate: Goodbye,Hola
+1231,167,Translate: Yes,¿Cómo estás?
+1232,168,Translate: Yes,No
+1233,169,Translate: Please,Agua
+1234,170,Translate: How are you?,Por favor
+1235,171,Translate: I love learning languages,Adiós
+1236,172,Translate: Hello,Gracias
+1237,173,Translate: Water,Sí
+1238,174,Translate: How are you?,Me encanta aprender idiomas
+1239,175,Translate: Water,Me encanta aprender idiomas
+1240,176,Translate: Yes,¿Cómo estás?
+1241,177,Translate: I love learning languages,Hola
+1242,178,Translate: Goodbye,¿Cómo estás?
+1243,179,Translate: Thank you,Adiós
+1244,180,Translate: Please,Me encanta aprender idiomas
+1245,181,Translate: Water,¿Cómo estás?
+1246,182,Translate: Goodbye,No
+1247,183,Translate: Good morning,¿Cómo estás?
+1248,184,Translate: Goodbye,Buenos días
+1249,185,Translate: How are you?,Por favor
+1250,186,Translate: Yes,Agua
+1251,187,Translate: Please,Buenos días
+1252,188,Translate: Goodbye,Me encanta aprender idiomas
+1253,189,Translate: How are you?,¿Cómo estás?
+1254,190,Translate: How are you?,No
+1255,191,Translate: How are you?,Por favor
+1256,192,Translate: Good morning,Agua
+1257,193,Translate: I love learning languages,Adiós
+1258,194,Translate: Please,¿Cómo estás?
+1259,195,Translate: I love learning languages,Adiós
+1260,196,Translate: No,Hola
+1261,197,Translate: Yes,Hola
+1262,198,Translate: I love learning languages,Sí
+1263,199,Translate: Water,Me encanta aprender idiomas
+1264,200,Translate: No,Buenos días
+1265,201,Translate: I love learning languages,Buenos días
+1266,202,Translate: Goodbye,No
+1267,203,Translate: Yes,Agua
+1268,204,Translate: I love learning languages,Me encanta aprender idiomas
+1269,205,Translate: Water,Sí
+1270,206,Translate: Goodbye,No
+1271,207,Translate: Yes,Me encanta aprender idiomas
+1272,208,Translate: How are you?,Gracias
+1273,209,Translate: Goodbye,Adiós
+1274,210,Translate: I love learning languages,Me encanta aprender idiomas
+1275,211,Translate: Please,Gracias
+1276,212,Translate: Thank you,Por favor
+1277,213,Translate: Goodbye,Sí
+1278,214,Translate: How are you?,Gracias
+1279,215,Translate: I love learning languages,Gracias
+1280,216,Translate: How are you?,Sí
+1281,217,Translate: Goodbye,Buenos días
+1282,218,Translate: Hello,Agua
+1283,219,Translate: Thank you,¿Cómo estás?
+1284,220,Translate: Water,Por favor
+1285,221,Translate: Water,Por favor
+1286,222,Translate: Yes,¿Cómo estás?
+1287,223,Translate: Thank you,Por favor
+1288,224,Translate: Good morning,No
+1289,225,Translate: Goodbye,Me encanta aprender idiomas
+1290,226,Translate: I love learning languages,Agua
+1291,227,Translate: Please,Me encanta aprender idiomas
+1292,228,Translate: Please,Gracias
+1293,229,Translate: Thank you,Adiós
+1294,230,Translate: No,Gracias
+1295,231,Translate: Please,Sí
+1296,232,Translate: Water,Adiós
+1297,233,Translate: I love learning languages,Buenos días
+1298,234,Translate: Hello,¿Cómo estás?
+1299,235,Translate: Please,Agua
+1300,236,Translate: Thank you,Buenos días
+1301,237,Translate: I love learning languages,Gracias
+1302,238,Translate: Good morning,Me encanta aprender idiomas
+1303,239,Translate: Good morning,Por favor
+1304,240,Translate: No,Buenos días
+1305,241,Translate: Hello,Sí
+1306,242,Translate: Water,¿Cómo estás?
+1307,243,Translate: Yes,¿Cómo estás?
+1308,244,Translate: Goodbye,Agua
+1309,245,Translate: How are you?,Por favor
+1310,246,Translate: How are you?,Por favor
+1311,247,Translate: Goodbye,¿Cómo estás?
+1312,248,Translate: How are you?,¿Cómo estás?
+1313,249,Translate: No,Me encanta aprender idiomas
+1314,250,Translate: Water,Me encanta aprender idiomas
+1315,251,Translate: Please,Me encanta aprender idiomas
+1316,252,Translate: Yes,¿Cómo estás?
+1317,253,Translate: Good morning,Me encanta aprender idiomas
+1318,254,Translate: Thank you,Gracias
+1319,255,Translate: Hello,¿Cómo estás?
+1320,256,Translate: Thank you,Gracias
+1321,257,Translate: Please,Por favor
+1322,258,Translate: Goodbye,¿Cómo estás?
+1323,259,Translate: Thank you,Me encanta aprender idiomas
+1324,260,Translate: How are you?,Hola
+1325,261,Translate: Water,Agua
+1326,262,Translate: Yes,¿Cómo estás?
+1327,263,Translate: I love learning languages,Hola
+1328,264,Translate: Thank you,Me encanta aprender idiomas
+1329,265,Translate: Yes,No
+1330,266,Translate: Good morning,No
+1331,267,Translate: Hello,Hola
+1332,268,Translate: No,Sí
+1333,269,Translate: Thank you,Gracias
+1334,270,Translate: Water,Me encanta aprender idiomas
+1335,271,Translate: Yes,Sí
+1336,272,Translate: Goodbye,Sí
+1337,273,Translate: I love learning languages,No
+1338,274,Translate: Yes,Por favor
+1339,275,Translate: Yes,Sí
+1340,276,Translate: How are you?,Gracias
+1341,277,Translate: How are you?,Adiós
+1342,278,Translate: Yes,Buenos días
+1343,279,Translate: Yes,¿Cómo estás?
+1344,280,Translate: Hello,Sí
+1345,281,Translate: Good morning,Sí
+1346,282,Translate: Thank you,Adiós
+1347,283,Translate: I love learning languages,Me encanta aprender idiomas
+1348,284,Translate: How are you?,No
+1349,285,Translate: Please,Me encanta aprender idiomas
+1350,286,Translate: Goodbye,Por favor
+1351,287,Translate: How are you?,Hola
+1352,288,Translate: Goodbye,Adiós
+1353,289,Translate: I love learning languages,Me encanta aprender idiomas
+1354,290,Translate: I love learning languages,Buenos días
+1355,291,Translate: No,Sí
+1356,292,Translate: Please,Sí
+1357,293,Translate: Good morning,No
+1358,294,Translate: Thank you,No
+1359,295,Translate: Hello,¿Cómo estás?
+1360,296,Translate: Water,Me encanta aprender idiomas
+1361,297,Translate: Please,Agua
+1362,298,Translate: Thank you,Agua
+1363,299,Translate: How are you?,Hola
+1364,300,Translate: I love learning languages,No
+1365,301,Translate: Thank you,Buenos días
+1366,302,Translate: How are you?,Buenos días
+1367,303,Translate: Please,¿Cómo estás?
+1368,304,Translate: Good morning,Adiós
+1369,305,Translate: No,Adiós
+1370,306,Translate: Thank you,Sí
+1371,307,Translate: Good morning,No
+1372,308,Translate: Water,Por favor
+1373,309,Translate: Yes,Gracias
+1374,310,Translate: I love learning languages,Adiós
+1375,311,Translate: Water,Gracias
+1376,312,Translate: Thank you,Agua
+1377,313,Translate: Please,Adiós
+1378,314,Translate: How are you?,No
+1379,315,Translate: Good morning,Adiós
+1380,316,Translate: Hello,Adiós
+1381,317,Translate: I love learning languages,Buenos días
+1382,318,Translate: Good morning,Gracias
+1383,319,Translate: Water,¿Cómo estás?
+1384,320,Translate: Thank you,Agua
+1385,321,Translate: Yes,Sí
+1386,322,Translate: Thank you,Agua
+1387,323,Translate: I love learning languages,No
+1388,324,Translate: Goodbye,No
+1389,325,Translate: Thank you,Me encanta aprender idiomas
+1390,326,Translate: Yes,Gracias
+1391,327,Translate: No,Me encanta aprender idiomas
+1392,328,Translate: Thank you,Buenos días
+1393,329,Translate: Yes,Por favor
+1394,330,Translate: Hello,Sí
+1395,331,Translate: I love learning languages,No
+1396,332,Translate: Please,Buenos días
+1397,333,Translate: Hello,Me encanta aprender idiomas
+1398,334,Translate: I love learning languages,No
+1399,335,Translate: Yes,Buenos días
+1400,336,Translate: Please,Me encanta aprender idiomas
+1401,337,Translate: I love learning languages,Adiós
+1402,338,Translate: Good morning,Buenos días
+1403,339,Translate: How are you?,No
+1404,340,Translate: Goodbye,No
+1405,341,Translate: Thank you,Me encanta aprender idiomas
+1406,342,Translate: Please,Sí
+1407,343,Translate: I love learning languages,¿Cómo estás?
+1408,344,Translate: Good morning,Sí
+1409,345,Translate: I love learning languages,¿Cómo estás?
+1410,346,Translate: Please,Por favor
+1411,347,Translate: Please,Agua
+1412,348,Translate: No,¿Cómo estás?
+1413,349,Translate: Goodbye,Sí
+1414,350,Translate: No,Gracias
+1415,351,Translate: I love learning languages,¿Cómo estás?
+1416,352,Translate: Please,No
+1417,353,Translate: No,Por favor
+1418,354,Translate: I love learning languages,No
+1419,355,Translate: Hello,Me encanta aprender idiomas
+1420,356,Translate: Hello,Hola
+1421,357,Translate: Thank you,¿Cómo estás?
+1422,358,Translate: Good morning,No
+1423,359,Translate: Thank you,Adiós
+1424,360,Translate: How are you?,Me encanta aprender idiomas
+1425,361,Translate: Thank you,¿Cómo estás?
+1426,362,Translate: Thank you,No
+1427,363,Translate: No,Sí
+1428,364,Translate: No,Adiós
+1429,365,Translate: Yes,¿Cómo estás?
+1430,366,Translate: I love learning languages,Sí
+1431,367,Translate: Thank you,Buenos días
+1432,368,Translate: Good morning,No
+1433,369,Translate: Good morning,Buenos días
+1434,370,Translate: How are you?,Me encanta aprender idiomas
+1435,371,Translate: I love learning languages,Por favor
+1436,372,Translate: Water,Agua
+1437,373,Translate: Good morning,Gracias
+1438,374,Translate: Yes,Gracias
+1439,375,Translate: I love learning languages,Buenos días
+1440,376,Translate: Water,Me encanta aprender idiomas
+1441,377,Translate: Please,Buenos días
+1442,378,Translate: No,Adiós
+1443,379,Translate: Goodbye,Buenos días
+1444,380,Translate: I love learning languages,¿Cómo estás?
+1445,381,Translate: Thank you,¿Cómo estás?
+1446,382,Translate: I love learning languages,No
+1447,383,Translate: Please,Sí
+1448,384,Translate: No,¿Cómo estás?
+1449,385,Translate: Water,Por favor
+1450,386,Translate: How are you?,Me encanta aprender idiomas
+1451,387,Translate: Water,Me encanta aprender idiomas
+1452,388,Translate: Goodbye,Agua
+1453,389,Translate: Yes,No
+1454,390,Translate: Good morning,Agua
+1455,391,Translate: Water,¿Cómo estás?
+1456,392,Translate: Good morning,Sí
+1457,393,Translate: Good morning,Adiós
+1458,394,Translate: Good morning,Buenos días
+1459,395,Translate: Yes,¿Cómo estás?
+1460,396,Translate: Thank you,Agua
+1461,397,Translate: Goodbye,Hola
+1462,398,Translate: How are you?,Me encanta aprender idiomas
+1463,399,Translate: Water,No
+1464,400,Translate: Goodbye,Adiós
+1465,401,Translate: Please,Gracias
+1466,402,Translate: Goodbye,No
+1467,403,Translate: I love learning languages,Por favor
+1468,404,Translate: Please,Adiós
+1469,405,Translate: Hello,Sí
+1470,406,Translate: No,¿Cómo estás?
+1471,407,Translate: Please,¿Cómo estás?
+1472,408,Translate: Please,No
+1473,409,Translate: Good morning,Gracias
+1474,410,Translate: Goodbye,Me encanta aprender idiomas
+1475,411,Translate: No,Buenos días
+1476,412,Translate: No,Adiós
+1477,413,Translate: Thank you,Sí
+1478,414,Translate: Yes,Gracias
+1479,415,Translate: Thank you,Buenos días
+1480,416,Translate: Thank you,Gracias
+1481,417,Translate: Yes,Gracias
+1482,418,Translate: Please,Adiós
+1483,419,Translate: Good morning,Hola
+1484,420,Translate: Please,Adiós
+1485,421,Translate: Thank you,Por favor
+1486,422,Translate: Water,No
+1487,423,Translate: No,Buenos días
+1488,424,Translate: Goodbye,Buenos días
+1489,425,Translate: I love learning languages,Por favor
+1490,426,Translate: Water,Me encanta aprender idiomas
+1491,427,Translate: How are you?,Me encanta aprender idiomas
+1492,428,Translate: Yes,No
+1493,429,Translate: Yes,Adiós
+1494,430,Translate: Please,Sí
+1495,431,Translate: No,Por favor
+1496,432,Translate: Thank you,Agua
+1497,433,Translate: How are you?,¿Cómo estás?
+1498,434,Translate: Yes,Sí
+1499,435,Translate: Goodbye,Gracias
+1500,436,Translate: Water,Adiós
+1501,437,Translate: No,Adiós
+1502,438,Translate: Good morning,Sí
+1503,439,Translate: How are you?,Adiós
+1504,440,Translate: Thank you,Me encanta aprender idiomas
+1505,441,Translate: Please,Sí
+1506,442,Translate: No,Adiós
+1507,443,Translate: No,Por favor
+1508,444,Translate: Water,Adiós
+1509,445,Translate: I love learning languages,Buenos días
+1510,446,Translate: Goodbye,Gracias
+1511,447,Translate: Yes,Me encanta aprender idiomas
+1512,448,Translate: Good morning,No
+1513,449,Translate: Water,Por favor
+1514,450,Translate: Yes,¿Cómo estás?
+1515,451,Translate: Goodbye,¿Cómo estás?
+1516,452,Translate: No,Hola
+1517,453,Translate: Good morning,Por favor
+1518,454,Translate: Yes,Me encanta aprender idiomas
+1519,455,Translate: How are you?,Sí
+1520,456,Translate: Thank you,Por favor
+1521,457,Translate: Please,Hola
+1522,458,Translate: Water,¿Cómo estás?
+1523,459,Translate: I love learning languages,Me encanta aprender idiomas
+1524,460,Translate: Yes,Agua
+1525,461,Translate: I love learning languages,Adiós
+1526,462,Translate: I love learning languages,Por favor
+1527,463,Translate: Please,Buenos días
+1528,464,Translate: Please,Por favor
+1529,465,Translate: Yes,¿Cómo estás?
+1530,466,Translate: Goodbye,Sí
+1531,467,Translate: Please,Gracias
+1532,468,Translate: Yes,Por favor
+1533,469,Translate: Yes,¿Cómo estás?
+1534,470,Translate: I love learning languages,¿Cómo estás?
+1535,471,Translate: Yes,¿Cómo estás?
+1536,472,Translate: No,Gracias
+1537,473,Translate: Yes,¿Cómo estás?
+1538,474,Translate: Yes,No
+1539,475,Translate: Water,Agua
+1540,476,Translate: I love learning languages,Me encanta aprender idiomas
+1541,477,Translate: Good morning,Agua
+1542,478,Translate: Please,Me encanta aprender idiomas
+1543,479,Translate: No,Adiós
+1544,480,Translate: Goodbye,Buenos días
+1545,481,Translate: Thank you,Gracias
+1546,482,Translate: Please,¿Cómo estás?
+1547,483,Translate: I love learning languages,No
+1548,484,Translate: How are you?,Adiós
+1549,485,Translate: Thank you,Me encanta aprender idiomas
+1550,486,Translate: I love learning languages,Agua
+1551,487,Translate: How are you?,Por favor
+1552,488,Translate: Good morning,Hola
+1553,489,Translate: I love learning languages,Agua
+1554,490,Translate: No,Por favor
+1555,491,Translate: Thank you,Gracias
+1556,492,Translate: Goodbye,Gracias
+1557,493,Translate: No,¿Cómo estás?
+1558,494,Translate: Please,Gracias
+1559,495,Translate: I love learning languages,Por favor
+1560,496,Translate: I love learning languages,Hola
+1561,497,Translate: How are you?,Hola
+1562,498,Translate: Thank you,Por favor
+1563,499,Translate: No,Buenos días
+1564,500,Translate: No,Me encanta aprender idiomas
+1565,501,Translate: Hello,Por favor
+1566,502,Translate: I love learning languages,¿Cómo estás?
+1567,503,Translate: Goodbye,Por favor
+1568,504,Translate: Thank you,Gracias
+1569,505,Translate: Goodbye,Gracias
+1570,506,Translate: I love learning languages,Buenos días
+1571,507,Translate: Water,No
+1572,508,Translate: How are you?,Buenos días
+1573,509,Translate: Please,Por favor
+1574,510,Translate: I love learning languages,Me encanta aprender idiomas
+1575,511,Translate: I love learning languages,Buenos días
+1576,512,Translate: How are you?,Me encanta aprender idiomas
+1577,513,Translate: Yes,Hola
+1578,514,Translate: Water,Gracias
+1579,515,Translate: How are you?,No
+1580,516,Translate: Please,No
+1581,517,Translate: Yes,Adiós
+1582,518,Translate: Goodbye,Adiós
+1583,519,Translate: I love learning languages,No
+1584,520,Translate: No,Gracias
+1585,521,Translate: Hello,¿Cómo estás?
+1586,522,Translate: Please,Gracias
+1587,523,Translate: Goodbye,No
+1588,524,Translate: Water,Me encanta aprender idiomas
+1589,525,Translate: I love learning languages,Por favor
+1590,526,Translate: Water,Agua
+1591,527,Translate: Yes,Me encanta aprender idiomas
+1592,528,Translate: Yes,Gracias
+1593,529,Translate: No,Buenos días
+1594,530,Translate: Yes,Gracias
+1595,531,Translate: Yes,Me encanta aprender idiomas
+1596,532,Translate: Water,Gracias
+1597,1,Translate: Thank you,Buenos días
+1598,2,Translate: How are you?,No
+1599,3,Translate: Goodbye,Adiós
+1600,4,Translate: Please,Gracias
+1601,5,Translate: Goodbye,¿Cómo estás?
+1602,6,Translate: Thank you,No
+1603,7,Translate: I love learning languages,No
+1604,8,Translate: Please,¿Cómo estás?
+1605,9,Translate: How are you?,Me encanta aprender idiomas
+1606,10,Translate: Please,Adiós
+1607,11,Translate: Water,Sí
+1608,12,Translate: Water,Agua
+1609,13,Translate: How are you?,Por favor
+1610,14,Translate: Please,Gracias
+1611,15,Translate: Thank you,Adiós
+1612,16,Translate: Please,Me encanta aprender idiomas
+1613,17,Translate: Good morning,Me encanta aprender idiomas
+1614,18,Translate: Goodbye,Me encanta aprender idiomas
+1615,19,Translate: Goodbye,¿Cómo estás?
+1616,20,Translate: I love learning languages,No
+1617,21,Translate: I love learning languages,Buenos días
+1618,22,Translate: Yes,Por favor
+1619,23,Translate: Goodbye,Me encanta aprender idiomas
+1620,24,Translate: Good morning,Adiós
+1621,25,Translate: Thank you,Adiós
+1622,26,Translate: I love learning languages,Gracias
+1623,27,Translate: Goodbye,¿Cómo estás?
+1624,28,Translate: How are you?,Adiós
+1625,29,Translate: Yes,¿Cómo estás?
+1626,30,Translate: Please,Buenos días
+1627,31,Translate: Goodbye,¿Cómo estás?
+1628,32,Translate: Hello,Adiós
+1629,33,Translate: I love learning languages,Me encanta aprender idiomas
+1630,34,Translate: Thank you,¿Cómo estás?
+1631,35,Translate: Good morning,Adiós
+1632,36,Translate: How are you?,¿Cómo estás?
+1633,37,Translate: Good morning,No
+1634,38,Translate: Please,Me encanta aprender idiomas
+1635,39,Translate: Yes,No
+1636,40,Translate: Water,No
+1637,41,Translate: Please,Adiós
+1638,42,Translate: Goodbye,Sí
+1639,43,Translate: Good morning,Adiós
+1640,44,Translate: Good morning,Gracias
+1641,45,Translate: Good morning,Sí
+1642,46,Translate: Hello,No
+1643,47,Translate: I love learning languages,Me encanta aprender idiomas
+1644,48,Translate: Yes,Hola
+1645,49,Translate: Please,Adiós
+1646,50,Translate: How are you?,Por favor
+1647,51,Translate: Hello,Adiós
+1648,52,Translate: Thank you,Adiós
+1649,53,Translate: Yes,No
+1650,54,Translate: Thank you,Adiós
+1651,55,Translate: Water,Sí
+1652,56,Translate: Yes,Gracias
+1653,57,Translate: No,Por favor
+1654,58,Translate: Please,Gracias
+1655,59,Translate: Water,Me encanta aprender idiomas
+1656,60,Translate: How are you?,Me encanta aprender idiomas
+1657,61,Translate: I love learning languages,Sí
+1658,62,Translate: Good morning,Adiós
+1659,63,Translate: Hello,Me encanta aprender idiomas
+1660,64,Translate: Water,Buenos días
+1661,65,Translate: Yes,Me encanta aprender idiomas
+1662,66,Translate: No,Gracias
+1663,67,Translate: No,Buenos días
+1664,68,Translate: Please,Adiós
+1665,69,Translate: No,Agua
+1666,70,Translate: Goodbye,Gracias
+1667,71,Translate: Goodbye,Adiós
+1668,72,Translate: Good morning,No
+1669,73,Translate: Thank you,Buenos días
+1670,74,Translate: How are you?,Me encanta aprender idiomas
+1671,75,Translate: Please,¿Cómo estás?
+1672,76,Translate: Water,¿Cómo estás?
+1673,77,Translate: How are you?,Buenos días
+1674,78,Translate: Good morning,Sí
+1675,79,Translate: Goodbye,Me encanta aprender idiomas
+1676,80,Translate: Please,Me encanta aprender idiomas
+1677,81,Translate: Yes,Buenos días
+1678,82,Translate: Good morning,Buenos días
+1679,83,Translate: Water,Buenos días
+1680,84,Translate: I love learning languages,Gracias
+1681,85,Translate: Goodbye,No
+1682,86,Translate: Please,Buenos días
+1683,87,Translate: No,No
+1684,88,Translate: Please,Sí
+1685,89,Translate: Yes,Gracias
+1686,90,Translate: Please,No
+1687,91,Translate: I love learning languages,Buenos días
+1688,92,Translate: No,Por favor
+1689,93,Translate: How are you?,Me encanta aprender idiomas
+1690,94,Translate: How are you?,Por favor
+1691,95,Translate: How are you?,No
+1692,96,Translate: Thank you,Adiós
+1693,97,Translate: Goodbye,Agua
+1694,98,Translate: I love learning languages,Gracias
+1695,99,Translate: Thank you,No
+1696,100,Translate: Goodbye,No
+1697,101,Translate: Please,¿Cómo estás?
+1698,102,Translate: Goodbye,Me encanta aprender idiomas
+1699,103,Translate: No,Me encanta aprender idiomas
+1700,104,Translate: How are you?,Agua
+1701,105,Translate: Good morning,Agua
+1702,106,Translate: How are you?,Por favor
+1703,107,Translate: I love learning languages,No
+1704,108,Translate: Thank you,Gracias
+1705,109,Translate: Thank you,Me encanta aprender idiomas
+1706,110,Translate: Please,Sí
+1707,111,Translate: How are you?,Gracias
+1708,112,Translate: Water,Agua
+1709,113,Translate: Good morning,No
+1710,114,Translate: Goodbye,No
+1711,115,Translate: Goodbye,Hola
+1712,116,Translate: Please,Sí
+1713,117,Translate: Thank you,Me encanta aprender idiomas
+1714,118,Translate: I love learning languages,No
+1715,119,Translate: Yes,Buenos días
+1716,120,Translate: Water,Buenos días
+1717,121,Translate: Good morning,Me encanta aprender idiomas
+1718,122,Translate: I love learning languages,Sí
+1719,123,Translate: Goodbye,Hola
+1720,124,Translate: Thank you,No
+1721,125,Translate: I love learning languages,Agua
+1722,126,Translate: Yes,Por favor
+1723,127,Translate: No,No
+1724,128,Translate: Thank you,Gracias
+1725,129,Translate: No,Agua
+1726,130,Translate: Good morning,Buenos días
+1727,131,Translate: Please,Agua
+1728,132,Translate: Good morning,Adiós
+1729,133,Translate: Water,Me encanta aprender idiomas
+1730,134,Translate: Good morning,No
+1731,135,Translate: Please,Buenos días
+1732,136,Translate: No,Adiós
+1733,137,Translate: Hello,Me encanta aprender idiomas
+1734,138,Translate: Thank you,Agua
+1735,139,Translate: I love learning languages,Hola
+1736,140,Translate: I love learning languages,No
+1737,141,Translate: Yes,Me encanta aprender idiomas
+1738,142,Translate: No,Buenos días
+1739,143,Translate: I love learning languages,Agua
+1740,144,Translate: How are you?,Hola
+1741,145,Translate: Goodbye,Me encanta aprender idiomas
+1742,146,Translate: Yes,Buenos días
+1743,147,Translate: Yes,¿Cómo estás?
+1744,148,Translate: I love learning languages,Buenos días
+1745,149,Translate: Water,Por favor
+1746,150,Translate: Hello,No
+1747,151,Translate: No,¿Cómo estás?
+1748,152,Translate: Yes,Me encanta aprender idiomas
+1749,153,Translate: Please,¿Cómo estás?
+1750,154,Translate: Please,Buenos días
+1751,155,Translate: How are you?,Me encanta aprender idiomas
+1752,156,Translate: No,Por favor
+1753,157,Translate: Yes,Sí
+1754,158,Translate: Please,Me encanta aprender idiomas
+1755,159,Translate: Thank you,Gracias
+1756,160,Translate: Please,Por favor
+1757,161,Translate: Hello,Por favor
+1758,162,Translate: No,Por favor
+1759,163,Translate: Yes,No
+1760,164,Translate: I love learning languages,No
+1761,165,Translate: How are you?,¿Cómo estás?
+1762,166,Translate: No,No
+1763,167,Translate: Good morning,Gracias
+1764,168,Translate: No,Sí
+1765,169,Translate: I love learning languages,Me encanta aprender idiomas
+1766,170,Translate: Thank you,Sí
+1767,171,Translate: Yes,Sí
+1768,172,Translate: Yes,¿Cómo estás?
+1769,173,Translate: Please,Me encanta aprender idiomas
+1770,174,Translate: Please,Me encanta aprender idiomas
+1771,175,Translate: No,Buenos días
+1772,176,Translate: How are you?,Adiós
+1773,177,Translate: I love learning languages,Me encanta aprender idiomas
+1774,178,Translate: No,Por favor
+1775,179,Translate: No,¿Cómo estás?
+1776,180,Translate: Yes,Gracias
+1777,181,Translate: Good morning,Buenos días
+1778,182,Translate: Good morning,Adiós
+1779,183,Translate: Hello,Gracias
+1780,184,Translate: I love learning languages,¿Cómo estás?
+1781,185,Translate: Please,Agua
+1782,186,Translate: Goodbye,Gracias
+1783,187,Translate: How are you?,Sí
+1784,188,Translate: No,Adiós
+1785,189,Translate: How are you?,Sí
+1786,190,Translate: I love learning languages,Por favor
+1787,191,Translate: Good morning,Buenos días
+1788,192,Translate: How are you?,Por favor
+1789,193,Translate: Thank you,Agua
+1790,194,Translate: Goodbye,Agua
+1791,195,Translate: I love learning languages,Adiós
+1792,196,Translate: Thank you,Agua
+1793,197,Translate: No,Por favor
+1794,198,Translate: Yes,Agua
+1795,199,Translate: How are you?,Por favor
+1796,200,Translate: Goodbye,Gracias
+1797,201,Translate: Good morning,¿Cómo estás?
+1798,202,Translate: Hello,Sí
+1799,203,Translate: Thank you,Buenos días
+1800,204,Translate: I love learning languages,Me encanta aprender idiomas
+1801,205,Translate: Thank you,No
+1802,206,Translate: Yes,Hola
+1803,207,Translate: Thank you,Agua
+1804,208,Translate: How are you?,Me encanta aprender idiomas
+1805,209,Translate: I love learning languages,Hola
+1806,210,Translate: Thank you,Me encanta aprender idiomas
+1807,211,Translate: No,Agua
+1808,212,Translate: How are you?,Sí
+1809,213,Translate: Yes,Agua
+1810,214,Translate: No,Me encanta aprender idiomas
+1811,215,Translate: Water,Buenos días
+1812,216,Translate: Good morning,Me encanta aprender idiomas
+1813,217,Translate: No,Agua
+1814,218,Translate: Thank you,Me encanta aprender idiomas
+1815,219,Translate: Goodbye,Buenos días
+1816,220,Translate: I love learning languages,Agua
+1817,221,Translate: Goodbye,No
+1818,222,Translate: Goodbye,No
+1819,223,Translate: Water,Me encanta aprender idiomas
+1820,224,Translate: No,Adiós
+1821,225,Translate: I love learning languages,Me encanta aprender idiomas
+1822,226,Translate: I love learning languages,Sí
+1823,227,Translate: I love learning languages,Buenos días
+1824,228,Translate: How are you?,¿Cómo estás?
+1825,229,Translate: I love learning languages,Buenos días
+1826,230,Translate: Good morning,Adiós
+1827,231,Translate: Yes,Me encanta aprender idiomas
+1828,232,Translate: Yes,¿Cómo estás?
+1829,233,Translate: Please,Gracias
+1830,234,Translate: Yes,Buenos días
+1831,235,Translate: Please,Buenos días
+1832,236,Translate: Thank you,Me encanta aprender idiomas
+1833,237,Translate: No,¿Cómo estás?
+1834,238,Translate: Hello,No
+1835,239,Translate: Good morning,Agua
+1836,240,Translate: I love learning languages,Me encanta aprender idiomas
+1837,241,Translate: Yes,¿Cómo estás?
+1838,242,Translate: Goodbye,Sí
+1839,243,Translate: Please,Sí
+1840,244,Translate: Thank you,Buenos días
+1841,245,Translate: How are you?,Sí
+1842,246,Translate: Thank you,¿Cómo estás?
+1843,247,Translate: How are you?,Agua
+1844,248,Translate: How are you?,Adiós
+1845,249,Translate: Goodbye,Buenos días
+1846,250,Translate: I love learning languages,Agua
+1847,251,Translate: Hello,Por favor
+1848,252,Translate: Water,¿Cómo estás?
+1849,253,Translate: Thank you,¿Cómo estás?
+1850,254,Translate: Good morning,Adiós
+1851,255,Translate: No,Buenos días
+1852,256,Translate: Yes,Por favor
+1853,257,Translate: I love learning languages,Buenos días
+1854,258,Translate: How are you?,Me encanta aprender idiomas
+1855,259,Translate: No,Adiós
+1856,260,Translate: Water,¿Cómo estás?
+1857,261,Translate: Good morning,Agua
+1858,262,Translate: I love learning languages,Agua
+1859,263,Translate: Please,Me encanta aprender idiomas
+1860,264,Translate: I love learning languages,Me encanta aprender idiomas
+1861,265,Translate: Yes,Sí
+1862,266,Translate: No,Gracias
+1863,267,Translate: Thank you,Sí
+1864,268,Translate: Good morning,Gracias
+1865,269,Translate: Good morning,Agua
+1866,270,Translate: Please,¿Cómo estás?
+1867,271,Translate: I love learning languages,No
+1868,272,Translate: How are you?,Me encanta aprender idiomas
+1869,273,Translate: How are you?,Agua
+1870,274,Translate: Please,Por favor
+1871,275,Translate: Thank you,Gracias
+1872,276,Translate: Please,Adiós
+1873,277,Translate: I love learning languages,Agua
+1874,278,Translate: How are you?,Por favor
+1875,279,Translate: How are you?,Agua
+1876,280,Translate: No,Adiós
+1877,281,Translate: Goodbye,No
+1878,282,Translate: Yes,Buenos días
+1879,283,Translate: I love learning languages,Por favor
+1880,284,Translate: No,Por favor
+1881,285,Translate: Please,Me encanta aprender idiomas
+1882,286,Translate: Water,Adiós
+1883,287,Translate: I love learning languages,Agua
+1884,288,Translate: Goodbye,Hola
+1885,289,Translate: Goodbye,Por favor
+1886,290,Translate: Thank you,Agua
+1887,291,Translate: Thank you,Sí
+1888,292,Translate: Good morning,No
+1889,293,Translate: Water,Adiós
+1890,294,Translate: Goodbye,Gracias
+1891,295,Translate: Good morning,Buenos días
+1892,296,Translate: No,Gracias
+1893,297,Translate: Goodbye,Me encanta aprender idiomas
+1894,298,Translate: Please,¿Cómo estás?
+1895,299,Translate: Thank you,Hola
+1896,300,Translate: Water,Gracias
+1897,301,Translate: I love learning languages,Adiós
+1898,302,Translate: Thank you,Por favor
+1899,303,Translate: Thank you,Adiós
+1900,304,Translate: Thank you,Me encanta aprender idiomas
+1901,305,Translate: Water,Agua
+1902,306,Translate: Goodbye,Adiós
+1903,307,Translate: Please,Agua
+1904,308,Translate: Goodbye,Sí
+1905,309,Translate: Yes,Agua
+1906,310,Translate: I love learning languages,Por favor
+1907,311,Translate: I love learning languages,Me encanta aprender idiomas
+1908,312,Translate: Hello,Buenos días
+1909,313,Translate: Water,Buenos días
+1910,314,Translate: I love learning languages,Buenos días
+1911,315,Translate: I love learning languages,Buenos días
+1912,316,Translate: No,Agua
+1913,317,Translate: No,No
+1914,318,Translate: Water,Agua
+1915,319,Translate: How are you?,Por favor
+1916,320,Translate: Thank you,Me encanta aprender idiomas
+1917,321,Translate: Thank you,Me encanta aprender idiomas
+1918,322,Translate: How are you?,Buenos días
+1919,323,Translate: Goodbye,Me encanta aprender idiomas
+1920,324,Translate: Hello,Hola
+1921,325,Translate: I love learning languages,Hola
+1922,326,Translate: Thank you,Agua
+1923,327,Translate: How are you?,Sí
+1924,328,Translate: No,No
+1925,329,Translate: I love learning languages,Por favor
+1926,330,Translate: Please,Gracias
+1927,331,Translate: How are you?,Por favor
+1928,332,Translate: Goodbye,¿Cómo estás?
+1929,333,Translate: Goodbye,Agua
+1930,334,Translate: Yes,Sí
+1931,335,Translate: Good morning,Por favor
+1932,336,Translate: Good morning,Me encanta aprender idiomas
+1933,337,Translate: Water,Buenos días
+1934,338,Translate: How are you?,Agua
+1935,339,Translate: I love learning languages,Buenos días
+1936,340,Translate: Water,Gracias
+1937,341,Translate: Water,Me encanta aprender idiomas
+1938,342,Translate: No,Me encanta aprender idiomas
+1939,343,Translate: Good morning,Buenos días
+1940,344,Translate: Thank you,Buenos días
+1941,345,Translate: How are you?,Agua
+1942,346,Translate: Thank you,Gracias
+1943,347,Translate: Water,No
+1944,348,Translate: Water,Me encanta aprender idiomas
+1945,349,Translate: No,Agua
+1946,350,Translate: Water,Sí
+1947,351,Translate: I love learning languages,Gracias
+1948,352,Translate: Water,Me encanta aprender idiomas
+1949,353,Translate: Yes,Sí
+1950,354,Translate: Please,Sí
+1951,355,Translate: Please,¿Cómo estás?
+1952,356,Translate: I love learning languages,Me encanta aprender idiomas
+1953,357,Translate: How are you?,Gracias
+1954,358,Translate: I love learning languages,Me encanta aprender idiomas
+1955,359,Translate: Yes,Agua
+1956,360,Translate: No,¿Cómo estás?
+1957,361,Translate: I love learning languages,Adiós
+1958,362,Translate: Water,¿Cómo estás?
+1959,363,Translate: No,Agua
+1960,364,Translate: I love learning languages,Me encanta aprender idiomas
+1961,365,Translate: I love learning languages,Me encanta aprender idiomas
+1962,366,Translate: How are you?,Agua
+1963,367,Translate: How are you?,Buenos días
+1964,368,Translate: I love learning languages,Por favor
+1965,369,Translate: Please,¿Cómo estás?
+1966,370,Translate: I love learning languages,No
+1967,371,Translate: No,Me encanta aprender idiomas
+1968,372,Translate: Goodbye,Me encanta aprender idiomas
+1969,373,Translate: No,¿Cómo estás?
+1970,374,Translate: Thank you,Agua
+1971,375,Translate: Thank you,Hola
+1972,376,Translate: Yes,Por favor
+1973,377,Translate: I love learning languages,No
+1974,378,Translate: Goodbye,No
+1975,379,Translate: Thank you,Agua
+1976,380,Translate: Good morning,¿Cómo estás?
+1977,381,Translate: Thank you,Sí
+1978,382,Translate: How are you?,Me encanta aprender idiomas
+1979,383,Translate: No,Me encanta aprender idiomas
+1980,384,Translate: Goodbye,Me encanta aprender idiomas
+1981,385,Translate: No,¿Cómo estás?
+1982,386,Translate: Thank you,Por favor
+1983,387,Translate: Thank you,¿Cómo estás?
+1984,388,Translate: Good morning,Hola
+1985,389,Translate: Goodbye,Adiós
+1986,390,Translate: I love learning languages,Por favor
+1987,391,Translate: Goodbye,Buenos días
+1988,392,Translate: I love learning languages,Buenos días
+1989,393,Translate: Goodbye,Sí
+1990,394,Translate: I love learning languages,Agua
+1991,395,Translate: Please,¿Cómo estás?
+1992,396,Translate: How are you?,Sí
+1993,397,Translate: Goodbye,Adiós
+1994,398,Translate: Thank you,Por favor
+1995,399,Translate: Yes,Buenos días
+1996,400,Translate: Yes,Sí
+1997,401,Translate: Water,Adiós
+1998,402,Translate: Thank you,Gracias
+1999,403,Translate: Please,¿Cómo estás?
+2000,404,Translate: Please,Me encanta aprender idiomas
+2001,405,Translate: Thank you,Me encanta aprender idiomas
+2002,406,Translate: Thank you,Me encanta aprender idiomas
+2003,407,Translate: Please,Buenos días
+2004,408,Translate: How are you?,Gracias
+2005,409,Translate: How are you?,No
+2006,410,Translate: No,Adiós
+2007,411,Translate: I love learning languages,Hola
+2008,412,Translate: I love learning languages,No
+2009,413,Translate: Good morning,Sí
+2010,414,Translate: Goodbye,No
+2011,415,Translate: Good morning,¿Cómo estás?
+2012,416,Translate: Water,No
+2013,417,Translate: I love learning languages,Me encanta aprender idiomas
+2014,418,Translate: How are you?,Buenos días
+2015,419,Translate: Thank you,Sí
+2016,420,Translate: Good morning,Sí
+2017,421,Translate: No,Gracias
+2018,422,Translate: Hello,Gracias
+2019,423,Translate: Goodbye,Me encanta aprender idiomas
+2020,424,Translate: Yes,Adiós
+2021,425,Translate: Goodbye,Sí
+2022,426,Translate: No,¿Cómo estás?
+2023,427,Translate: Yes,Gracias
+2024,428,Translate: Water,Gracias
+2025,429,Translate: Yes,Agua
+2026,430,Translate: Goodbye,Por favor
+2027,431,Translate: Goodbye,¿Cómo estás?
+2028,432,Translate: I love learning languages,Gracias
+2029,433,Translate: No,Buenos días
+2030,434,Translate: Please,Hola
+2031,435,Translate: I love learning languages,Me encanta aprender idiomas
+2032,436,Translate: I love learning languages,¿Cómo estás?
+2033,437,Translate: I love learning languages,Adiós
+2034,438,Translate: Please,Adiós
+2035,439,Translate: Water,Sí
+2036,440,Translate: Hello,No
+2037,441,Translate: Yes,Por favor
+2038,442,Translate: Goodbye,¿Cómo estás?
+2039,443,Translate: Thank you,Me encanta aprender idiomas
+2040,444,Translate: No,Me encanta aprender idiomas
+2041,445,Translate: How are you?,No
+2042,446,Translate: No,Me encanta aprender idiomas
+2043,447,Translate: Water,Adiós
+2044,448,Translate: Good morning,Buenos días
+2045,449,Translate: Good morning,Me encanta aprender idiomas
+2046,450,Translate: Thank you,No
+2047,451,Translate: Please,Adiós
+2048,452,Translate: I love learning languages,Sí
+2049,453,Translate: Yes,Buenos días
+2050,454,Translate: No,Adiós
+2051,455,Translate: Yes,Sí
+2052,456,Translate: How are you?,Adiós
+2053,457,Translate: Hello,Hola
+2054,458,Translate: Good morning,No
+2055,459,Translate: Hello,¿Cómo estás?
+2056,460,Translate: No,No
+2057,461,Translate: I love learning languages,Buenos días
+2058,462,Translate: Goodbye,Buenos días
+2059,463,Translate: Goodbye,Me encanta aprender idiomas
+2060,464,Translate: Thank you,Agua
+2061,465,Translate: Goodbye,Gracias
+2062,466,Translate: How are you?,Agua
+2063,467,Translate: No,Agua
+2064,468,Translate: Goodbye,Agua
+2065,469,Translate: Water,No
+2066,470,Translate: Goodbye,Adiós
+2067,471,Translate: Good morning,No
+2068,472,Translate: Goodbye,No
+2069,473,Translate: Thank you,Buenos días
+2070,474,Translate: How are you?,Adiós
+2071,475,Translate: Good morning,Buenos días
+2072,476,Translate: Goodbye,No
+2073,477,Translate: Please,Sí
+2074,478,Translate: How are you?,Agua
+2075,479,Translate: I love learning languages,Sí
+2076,480,Translate: No,Buenos días
+2077,481,Translate: I love learning languages,¿Cómo estás?
+2078,482,Translate: Good morning,Por favor
+2079,483,Translate: Yes,Buenos días
+2080,484,Translate: No,Buenos días
+2081,485,Translate: Goodbye,Me encanta aprender idiomas
+2082,486,Translate: No,Sí
+2083,487,Translate: Please,¿Cómo estás?
+2084,488,Translate: Good morning,Por favor
+2085,489,Translate: Please,Gracias
+2086,490,Translate: Goodbye,Por favor
+2087,491,Translate: Water,Sí
+2088,492,Translate: Water,Buenos días
+2089,493,Translate: Thank you,Buenos días
+2090,494,Translate: Please,Sí
+2091,495,Translate: Thank you,¿Cómo estás?
+2092,496,Translate: Hello,No
+2093,497,Translate: No,Gracias
+2094,498,Translate: Good morning,Adiós
+2095,499,Translate: Good morning,Sí
+2096,500,Translate: No,Por favor
+2097,501,Translate: Good morning,Me encanta aprender idiomas
+2098,502,Translate: Goodbye,No
+2099,503,Translate: Thank you,No
+2100,504,Translate: Yes,Adiós
+2101,505,Translate: I love learning languages,Sí
+2102,506,Translate: Good morning,Sí
+2103,507,Translate: Goodbye,Por favor
+2104,508,Translate: I love learning languages,Buenos días
+2105,509,Translate: Yes,Buenos días
+2106,510,Translate: No,Adiós
+2107,511,Translate: I love learning languages,¿Cómo estás?
+2108,512,Translate: I love learning languages,Gracias
+2109,513,Translate: No,Sí
+2110,514,Translate: Water,Por favor
+2111,515,Translate: Good morning,No
+2112,516,Translate: Please,Hola
+2113,517,Translate: Goodbye,Gracias
+2114,518,Translate: Yes,Buenos días
+2115,519,Translate: How are you?,¿Cómo estás?
+2116,520,Translate: Yes,No
+2117,521,Translate: Water,Buenos días
+2118,522,Translate: I love learning languages,Adiós
+2119,523,Translate: Good morning,Gracias
+2120,524,Translate: How are you?,No
+2121,525,Translate: Goodbye,Sí
+2122,526,Translate: No,Sí
+2123,527,Translate: Goodbye,Por favor
+2124,528,Translate: No,¿Cómo estás?
+2125,529,Translate: Goodbye,Gracias
+2126,530,Translate: I love learning languages,Buenos días
+2127,531,Translate: Good morning,Por favor
+2128,532,Translate: Please,Buenos días
+2129,1,Translate: Please,Buenos días
+2130,2,Translate: Water,Agua
+2131,3,Translate: Yes,Me encanta aprender idiomas
+2132,4,Translate: Good morning,Agua
+2133,5,Translate: Water,Me encanta aprender idiomas
+2134,6,Translate: Good morning,¿Cómo estás?
+2135,7,Translate: No,Por favor
+2136,8,Translate: I love learning languages,Buenos días
+2137,9,Translate: Please,Me encanta aprender idiomas
+2138,10,Translate: Please,Agua
+2139,11,Translate: Good morning,Buenos días
+2140,12,Translate: Good morning,Por favor
+2141,13,Translate: Thank you,Agua
+2142,14,Translate: No,Sí
+2143,15,Translate: How are you?,Adiós
+2144,16,Translate: I love learning languages,Adiós
+2145,17,Translate: Water,Sí
+2146,18,Translate: How are you?,No
+2147,19,Translate: Water,Adiós
+2148,20,Translate: Goodbye,Buenos días
+2149,21,Translate: Please,Adiós
+2150,22,Translate: No,No
+2151,23,Translate: I love learning languages,Agua
+2152,24,Translate: Yes,Por favor
+2153,25,Translate: Water,No
+2154,26,Translate: How are you?,Adiós
+2155,27,Translate: Water,No
+2156,28,Translate: How are you?,Gracias
+2157,29,Translate: I love learning languages,Me encanta aprender idiomas
+2158,30,Translate: Water,No
+2159,31,Translate: No,Sí
+2160,32,Translate: I love learning languages,Me encanta aprender idiomas
+2161,33,Translate: I love learning languages,Adiós
+2162,34,Translate: Goodbye,No
+2163,35,Translate: Yes,No
+2164,36,Translate: Please,Por favor
+2165,37,Translate: Hello,Gracias
+2166,38,Translate: Goodbye,Agua
+2167,39,Translate: Thank you,Me encanta aprender idiomas
+2168,40,Translate: Water,Por favor
+2169,41,Translate: No,Me encanta aprender idiomas
+2170,42,Translate: Thank you,¿Cómo estás?
+2171,43,Translate: Thank you,Me encanta aprender idiomas
+2172,44,Translate: Water,Por favor
+2173,45,Translate: I love learning languages,Agua
+2174,46,Translate: I love learning languages,No
+2175,47,Translate: Hello,Me encanta aprender idiomas
+2176,48,Translate: Please,Por favor
+2177,49,Translate: No,Adiós
+2178,50,Translate: Yes,No
+2179,51,Translate: Yes,Me encanta aprender idiomas
+2180,52,Translate: Hello,Por favor
+2181,53,Translate: Good morning,¿Cómo estás?
+2182,54,Translate: No,Agua
+2183,55,Translate: Thank you,Agua
+2184,56,Translate: Good morning,Sí
+2185,57,Translate: How are you?,Por favor
+2186,58,Translate: Goodbye,Agua
+2187,59,Translate: Hello,Por favor
+2188,60,Translate: Goodbye,Adiós
+2189,61,Translate: Please,Agua
+2190,62,Translate: Yes,Sí
+2191,63,Translate: Water,¿Cómo estás?
+2192,64,Translate: Please,Adiós
+2193,65,Translate: Goodbye,Adiós
+2194,66,Translate: How are you?,¿Cómo estás?
+2195,67,Translate: Good morning,Gracias
+2196,68,Translate: Hello,Agua
+2197,69,Translate: I love learning languages,Adiós
+2198,70,Translate: Please,Me encanta aprender idiomas
+2199,71,Translate: Goodbye,Por favor
+2200,72,Translate: No,Agua
+2201,73,Translate: Goodbye,Me encanta aprender idiomas
+2202,74,Translate: How are you?,¿Cómo estás?
+2203,75,Translate: Water,Adiós
+2204,76,Translate: How are you?,Me encanta aprender idiomas
+2205,77,Translate: Thank you,Me encanta aprender idiomas
+2206,78,Translate: Yes,Buenos días
+2207,79,Translate: Good morning,Gracias
+2208,80,Translate: Water,Sí
+2209,81,Translate: I love learning languages,Gracias
+2210,82,Translate: How are you?,Me encanta aprender idiomas
+2211,83,Translate: Water,No
+2212,84,Translate: No,Agua
+2213,85,Translate: How are you?,Agua
+2214,86,Translate: Goodbye,Sí
+2215,87,Translate: How are you?,Buenos días
+2216,88,Translate: Yes,Por favor
+2217,89,Translate: Hello,Me encanta aprender idiomas
+2218,90,Translate: No,Agua
+2219,91,Translate: Water,No
+2220,92,Translate: Yes,Agua
+2221,93,Translate: Water,Sí
+2222,94,Translate: Please,¿Cómo estás?
+2223,95,Translate: Goodbye,Agua
+2224,96,Translate: Good morning,No
+2225,97,Translate: Water,Agua
+2226,98,Translate: No,Me encanta aprender idiomas
+2227,99,Translate: How are you?,Hola
+2228,100,Translate: Goodbye,Adiós
+2229,101,Translate: How are you?,Buenos días
+2230,102,Translate: No,Me encanta aprender idiomas
+2231,103,Translate: Yes,Sí
+2232,104,Translate: I love learning languages,¿Cómo estás?
+2233,105,Translate: Thank you,Agua
+2234,106,Translate: How are you?,Buenos días
+2235,107,Translate: How are you?,Sí
+2236,108,Translate: Good morning,No
+2237,109,Translate: Please,¿Cómo estás?
+2238,110,Translate: Thank you,Agua
+2239,111,Translate: Hello,Agua
+2240,112,Translate: Goodbye,Me encanta aprender idiomas
+2241,113,Translate: How are you?,Buenos días
+2242,114,Translate: No,Agua
+2243,115,Translate: Goodbye,Agua
+2244,116,Translate: I love learning languages,Hola
+2245,117,Translate: Goodbye,Adiós
+2246,118,Translate: Please,Buenos días
+2247,119,Translate: Goodbye,Hola
+2248,120,Translate: I love learning languages,¿Cómo estás?
+2249,121,Translate: Thank you,Buenos días
+2250,122,Translate: No,Agua
+2251,123,Translate: Goodbye,No
+2252,124,Translate: No,Me encanta aprender idiomas
+2253,125,Translate: Please,Hola
+2254,126,Translate: How are you?,Agua
+2255,127,Translate: Good morning,Gracias
+2256,128,Translate: Thank you,Me encanta aprender idiomas
+2257,129,Translate: I love learning languages,Adiós
+2258,130,Translate: No,No
+2259,131,Translate: Goodbye,Adiós
+2260,132,Translate: Thank you,Buenos días
+2261,133,Translate: Yes,¿Cómo estás?
+2262,134,Translate: Good morning,Sí
+2263,135,Translate: Water,Me encanta aprender idiomas
+2264,136,Translate: I love learning languages,Me encanta aprender idiomas
+2265,137,Translate: I love learning languages,No
+2266,138,Translate: No,Gracias
+2267,139,Translate: Hello,Por favor
+2268,140,Translate: Thank you,¿Cómo estás?
+2269,141,Translate: Good morning,Buenos días
+2270,142,Translate: Thank you,Hola
+2271,143,Translate: Hello,Adiós
+2272,144,Translate: Hello,Por favor
+2273,145,Translate: How are you?,No
+2274,146,Translate: Thank you,Buenos días
+2275,147,Translate: How are you?,Agua
+2276,148,Translate: No,Agua
+2277,149,Translate: I love learning languages,Hola
+2278,150,Translate: Goodbye,Me encanta aprender idiomas
+2279,151,Translate: Goodbye,Adiós
+2280,152,Translate: Good morning,Me encanta aprender idiomas
+2281,153,Translate: I love learning languages,Gracias
+2282,154,Translate: Hello,Sí
+2283,155,Translate: I love learning languages,Agua
+2284,156,Translate: I love learning languages,Gracias
+2285,157,Translate: How are you?,Me encanta aprender idiomas
+2286,158,Translate: Please,Sí
+2287,159,Translate: No,Agua
+2288,160,Translate: I love learning languages,Gracias
+2289,161,Translate: Please,Me encanta aprender idiomas
+2290,162,Translate: Good morning,Gracias
+2291,163,Translate: I love learning languages,Sí
+2292,164,Translate: How are you?,Por favor
+2293,165,Translate: Yes,Me encanta aprender idiomas
+2294,166,Translate: Yes,Buenos días
+2295,167,Translate: Goodbye,Agua
+2296,168,Translate: Thank you,Me encanta aprender idiomas
+2297,169,Translate: Yes,Me encanta aprender idiomas
+2298,170,Translate: I love learning languages,Me encanta aprender idiomas
+2299,171,Translate: Please,¿Cómo estás?
+2300,172,Translate: Hello,Adiós
+2301,173,Translate: Hello,Sí
+2302,174,Translate: I love learning languages,Por favor
+2303,175,Translate: I love learning languages,Hola
+2304,176,Translate: Good morning,Me encanta aprender idiomas
+2305,177,Translate: Please,Adiós
+2306,178,Translate: Please,Me encanta aprender idiomas
+2307,179,Translate: Hello,Agua
+2308,180,Translate: No,¿Cómo estás?
+2309,181,Translate: Good morning,Sí
+2310,182,Translate: Please,Me encanta aprender idiomas
+2311,183,Translate: Water,Me encanta aprender idiomas
+2312,184,Translate: How are you?,Adiós
+2313,185,Translate: Water,Hola
+2314,186,Translate: No,¿Cómo estás?
+2315,187,Translate: I love learning languages,Sí
+2316,188,Translate: Water,Por favor
+2317,189,Translate: Please,Hola
+2318,190,Translate: Good morning,Agua
+2319,191,Translate: Water,No
+2320,192,Translate: Yes,Gracias
+2321,193,Translate: Please,Sí
+2322,194,Translate: Thank you,No
+2323,195,Translate: Goodbye,Gracias
+2324,196,Translate: No,Buenos días
+2325,197,Translate: Thank you,Gracias
+2326,198,Translate: I love learning languages,Gracias
+2327,199,Translate: I love learning languages,Sí
+2328,200,Translate: Please,Adiós
+2329,201,Translate: How are you?,¿Cómo estás?
+2330,202,Translate: Yes,Me encanta aprender idiomas
+2331,203,Translate: I love learning languages,Hola
+2332,204,Translate: Yes,¿Cómo estás?
+2333,205,Translate: Goodbye,Adiós
+2334,206,Translate: Goodbye,¿Cómo estás?
+2335,207,Translate: Please,Por favor
+2336,208,Translate: I love learning languages,Buenos días
+2337,209,Translate: No,Me encanta aprender idiomas
+2338,210,Translate: Good morning,No
+2339,211,Translate: Please,Adiós
+2340,212,Translate: Hello,Adiós
+2341,213,Translate: Good morning,Buenos días
+2342,214,Translate: I love learning languages,Por favor
+2343,215,Translate: How are you?,Adiós
+2344,216,Translate: Water,Hola
+2345,217,Translate: Good morning,¿Cómo estás?
+2346,218,Translate: Goodbye,Me encanta aprender idiomas
+2347,219,Translate: Thank you,Por favor
+2348,220,Translate: Goodbye,¿Cómo estás?
+2349,221,Translate: Yes,Gracias
+2350,222,Translate: Hello,Sí
+2351,223,Translate: Goodbye,Sí
+2352,224,Translate: Yes,Hola
+2353,225,Translate: I love learning languages,Gracias
+2354,226,Translate: How are you?,Por favor
+2355,227,Translate: Water,Sí
+2356,228,Translate: Please,Sí
+2357,229,Translate: Good morning,Sí
+2358,230,Translate: Goodbye,¿Cómo estás?
+2359,231,Translate: Hello,Agua
+2360,232,Translate: Goodbye,Me encanta aprender idiomas
+2361,233,Translate: Water,Sí
+2362,234,Translate: Yes,Adiós
+2363,235,Translate: I love learning languages,Sí
+2364,236,Translate: How are you?,No
+2365,237,Translate: Please,Adiós
+2366,238,Translate: Good morning,No
+2367,239,Translate: Yes,Sí
+2368,240,Translate: Good morning,Agua
+2369,241,Translate: Please,Me encanta aprender idiomas
+2370,242,Translate: No,Me encanta aprender idiomas
+2371,243,Translate: Thank you,Agua
+2372,244,Translate: Thank you,Gracias
+2373,245,Translate: Please,Adiós
+2374,246,Translate: How are you?,Adiós
+2375,247,Translate: Goodbye,Por favor
+2376,248,Translate: Water,Buenos días
+2377,249,Translate: Water,Gracias
+2378,250,Translate: Thank you,Buenos días
+2379,251,Translate: I love learning languages,Me encanta aprender idiomas
+2380,252,Translate: Please,Buenos días
+2381,253,Translate: How are you?,Agua
+2382,254,Translate: Yes,No
+2383,255,Translate: Please,Gracias
+2384,256,Translate: Goodbye,Por favor
+2385,257,Translate: Please,Me encanta aprender idiomas
+2386,258,Translate: Hello,No
+2387,259,Translate: Thank you,¿Cómo estás?
+2388,260,Translate: Good morning,No
+2389,261,Translate: I love learning languages,Me encanta aprender idiomas
+2390,262,Translate: How are you?,Hola
+2391,263,Translate: Good morning,Me encanta aprender idiomas
+2392,264,Translate: Please,Adiós
+2393,265,Translate: How are you?,Me encanta aprender idiomas
+2394,266,Translate: I love learning languages,Agua
+2395,267,Translate: Goodbye,Sí
+2396,268,Translate: Water,Hola
+2397,269,Translate: Hello,Hola
+2398,270,Translate: Water,No
+2399,271,Translate: Hello,Buenos días
+2400,272,Translate: Goodbye,Gracias
+2401,273,Translate: How are you?,Me encanta aprender idiomas
+2402,274,Translate: I love learning languages,¿Cómo estás?
+2403,275,Translate: Hello,Agua
+2404,276,Translate: Yes,Buenos días
+2405,277,Translate: Thank you,No
+2406,278,Translate: Yes,¿Cómo estás?
+2407,279,Translate: No,Gracias
+2408,280,Translate: Goodbye,Adiós
+2409,281,Translate: Yes,Hola
+2410,282,Translate: Yes,Buenos días
+2411,283,Translate: Please,¿Cómo estás?
+2412,284,Translate: No,Adiós
+2413,285,Translate: No,¿Cómo estás?
+2414,286,Translate: Good morning,Gracias
+2415,287,Translate: Thank you,Hola
+2416,288,Translate: I love learning languages,No
+2417,289,Translate: No,Por favor
+2418,290,Translate: Hello,Sí
+2419,291,Translate: No,Me encanta aprender idiomas
+2420,292,Translate: Goodbye,Adiós
+2421,293,Translate: No,Me encanta aprender idiomas
+2422,294,Translate: Goodbye,Hola
+2423,295,Translate: Good morning,Buenos días
+2424,296,Translate: Thank you,Me encanta aprender idiomas
+2425,297,Translate: Please,Buenos días
+2426,298,Translate: Yes,Me encanta aprender idiomas
+2427,299,Translate: No,Buenos días
+2428,300,Translate: Yes,Gracias
+2429,301,Translate: How are you?,Por favor
+2430,302,Translate: No,Hola
+2431,303,Translate: Good morning,Por favor
+2432,304,Translate: Please,Por favor
+2433,305,Translate: Yes,No
+2434,306,Translate: Yes,Hola
+2435,307,Translate: How are you?,Adiós
+2436,308,Translate: Thank you,Me encanta aprender idiomas
+2437,309,Translate: Water,Sí
+2438,310,Translate: Water,Hola
+2439,311,Translate: Please,Me encanta aprender idiomas
+2440,312,Translate: Hello,Agua
+2441,313,Translate: Thank you,Buenos días
+2442,314,Translate: Yes,Adiós
+2443,315,Translate: I love learning languages,Sí
+2444,316,Translate: Goodbye,Por favor
+2445,317,Translate: No,Buenos días
+2446,318,Translate: How are you?,Buenos días
+2447,319,Translate: No,¿Cómo estás?
+2448,320,Translate: I love learning languages,¿Cómo estás?
+2449,321,Translate: Good morning,Hola
+2450,322,Translate: Please,¿Cómo estás?
+2451,323,Translate: Thank you,Por favor
+2452,324,Translate: I love learning languages,Sí
+2453,325,Translate: Goodbye,No
+2454,326,Translate: Hello,Por favor
+2455,327,Translate: I love learning languages,Sí
+2456,328,Translate: Thank you,Me encanta aprender idiomas
+2457,329,Translate: Yes,Adiós
+2458,330,Translate: Please,¿Cómo estás?
+2459,331,Translate: Water,¿Cómo estás?
+2460,332,Translate: Water,Buenos días
+2461,333,Translate: Thank you,Buenos días
+2462,334,Translate: Water,Sí
+2463,335,Translate: Hello,Gracias
+2464,336,Translate: Please,Adiós
+2465,337,Translate: No,Agua
+2466,338,Translate: No,Me encanta aprender idiomas
+2467,339,Translate: How are you?,Buenos días
+2468,340,Translate: I love learning languages,Por favor
+2469,341,Translate: Thank you,Me encanta aprender idiomas
+2470,342,Translate: I love learning languages,Buenos días
+2471,343,Translate: Yes,Adiós
+2472,344,Translate: Please,Agua
+2473,345,Translate: I love learning languages,Sí
+2474,346,Translate: I love learning languages,Me encanta aprender idiomas
+2475,347,Translate: No,Me encanta aprender idiomas
+2476,348,Translate: Please,No
+2477,349,Translate: Good morning,Sí
+2478,350,Translate: Please,Hola
+2479,351,Translate: Water,Agua
+2480,352,Translate: Water,Por favor
+2481,353,Translate: How are you?,Sí
+2482,354,Translate: No,Por favor
+2483,355,Translate: Please,Gracias
+2484,356,Translate: I love learning languages,Adiós
+2485,357,Translate: No,Gracias
+2486,358,Translate: Hello,Por favor
+2487,359,Translate: Good morning,Sí
+2488,360,Translate: Goodbye,Sí
+2489,361,Translate: How are you?,Adiós
+2490,362,Translate: Goodbye,Agua
+2491,363,Translate: Hello,Adiós
+2492,364,Translate: No,Me encanta aprender idiomas
+2493,365,Translate: Goodbye,Adiós
+2494,366,Translate: No,Sí
+2495,367,Translate: Goodbye,Por favor
+2496,368,Translate: No,Adiós
+2497,369,Translate: Goodbye,Me encanta aprender idiomas
+2498,370,Translate: How are you?,No
+2499,371,Translate: How are you?,Por favor
+2500,372,Translate: Please,Buenos días
+2501,373,Translate: Hello,Agua
+2502,374,Translate: How are you?,Adiós
+2503,375,Translate: No,¿Cómo estás?
+2504,376,Translate: Yes,Gracias
+2505,377,Translate: Water,Sí
+2506,378,Translate: No,Adiós
+2507,379,Translate: Good morning,Me encanta aprender idiomas
+2508,380,Translate: Please,Gracias
+2509,381,Translate: How are you?,Me encanta aprender idiomas
+2510,382,Translate: Thank you,Me encanta aprender idiomas
+2511,383,Translate: Water,Me encanta aprender idiomas
+2512,384,Translate: Hello,Sí
+2513,385,Translate: Goodbye,Buenos días
+2514,386,Translate: Goodbye,Me encanta aprender idiomas
+2515,387,Translate: Please,Adiós
+2516,388,Translate: I love learning languages,Por favor
+2517,389,Translate: Water,Gracias
+2518,390,Translate: Goodbye,Gracias
+2519,391,Translate: Good morning,Me encanta aprender idiomas
+2520,392,Translate: Yes,Buenos días
+2521,393,Translate: Good morning,No
+2522,394,Translate: Thank you,Gracias
+2523,395,Translate: Goodbye,Me encanta aprender idiomas
+2524,396,Translate: Thank you,¿Cómo estás?
+2525,397,Translate: No,Por favor
+2526,398,Translate: How are you?,Gracias
+2527,399,Translate: No,Me encanta aprender idiomas
+2528,400,Translate: Please,¿Cómo estás?
+2529,401,Translate: How are you?,Hola
+2530,402,Translate: Good morning,Por favor
+2531,403,Translate: Yes,Me encanta aprender idiomas
+2532,404,Translate: Water,Me encanta aprender idiomas
+2533,405,Translate: How are you?,Agua
+2534,406,Translate: Goodbye,Gracias
+2535,407,Translate: How are you?,Gracias
+2536,408,Translate: Yes,Adiós
+2537,409,Translate: How are you?,Agua
+2538,410,Translate: Goodbye,Gracias
+2539,411,Translate: No,Buenos días
+2540,412,Translate: No,Por favor
+2541,413,Translate: I love learning languages,Buenos días
+2542,414,Translate: No,Sí
+2543,415,Translate: Yes,¿Cómo estás?
+2544,416,Translate: Thank you,No
+2545,417,Translate: I love learning languages,Gracias
+2546,418,Translate: Good morning,No
+2547,419,Translate: Yes,No
+2548,420,Translate: Thank you,Por favor
+2549,421,Translate: I love learning languages,Buenos días
+2550,422,Translate: Goodbye,Por favor
+2551,423,Translate: I love learning languages,Sí
+2552,424,Translate: Yes,Gracias
+2553,425,Translate: No,Gracias
+2554,426,Translate: Goodbye,Por favor
+2555,427,Translate: Goodbye,Me encanta aprender idiomas
+2556,428,Translate: How are you?,Me encanta aprender idiomas
+2557,429,Translate: Water,Gracias
+2558,430,Translate: I love learning languages,Agua
+2559,431,Translate: I love learning languages,¿Cómo estás?
+2560,432,Translate: Goodbye,Sí
+2561,433,Translate: Yes,Adiós
+2562,434,Translate: Water,Buenos días
+2563,435,Translate: I love learning languages,Buenos días
+2564,436,Translate: Water,Me encanta aprender idiomas
+2565,437,Translate: How are you?,Gracias
+2566,438,Translate: Please,Buenos días
+2567,439,Translate: No,Me encanta aprender idiomas
+2568,440,Translate: Please,Gracias
+2569,441,Translate: No,Gracias
+2570,442,Translate: Yes,Hola
+2571,443,Translate: Water,¿Cómo estás?
+2572,444,Translate: How are you?,Agua
+2573,445,Translate: Water,No
+2574,446,Translate: I love learning languages,Agua
+2575,447,Translate: No,Gracias
+2576,448,Translate: I love learning languages,Por favor
+2577,449,Translate: Goodbye,¿Cómo estás?
+2578,450,Translate: Hello,Adiós
+2579,451,Translate: No,Sí
+2580,452,Translate: How are you?,Adiós
+2581,453,Translate: Yes,Sí
+2582,454,Translate: Please,Por favor
+2583,455,Translate: Good morning,Me encanta aprender idiomas
+2584,456,Translate: No,Hola
+2585,457,Translate: I love learning languages,Gracias
+2586,458,Translate: Thank you,Sí
+2587,459,Translate: Thank you,Gracias
+2588,460,Translate: Water,Sí
+2589,461,Translate: No,Gracias
+2590,462,Translate: I love learning languages,¿Cómo estás?
+2591,463,Translate: Good morning,Buenos días
+2592,464,Translate: Good morning,Hola
+2593,465,Translate: Water,Agua
+2594,466,Translate: Good morning,Me encanta aprender idiomas
+2595,467,Translate: Please,Por favor
+2596,468,Translate: No,Por favor
+2597,469,Translate: Water,Hola
+2598,470,Translate: No,Buenos días
+2599,471,Translate: Water,Me encanta aprender idiomas
+2600,472,Translate: Please,Buenos días
+2601,473,Translate: I love learning languages,Gracias
+2602,474,Translate: How are you?,Me encanta aprender idiomas
+2603,475,Translate: How are you?,Gracias
+2604,476,Translate: Thank you,Agua
+2605,477,Translate: Yes,Hola
+2606,478,Translate: Good morning,Por favor
+2607,479,Translate: Please,Me encanta aprender idiomas
+2608,480,Translate: Goodbye,¿Cómo estás?
+2609,481,Translate: I love learning languages,Adiós
+2610,482,Translate: Water,Por favor
+2611,483,Translate: How are you?,Buenos días
+2612,484,Translate: How are you?,Gracias
+2613,485,Translate: Good morning,¿Cómo estás?
+2614,486,Translate: Thank you,Buenos días
+2615,487,Translate: Hello,Por favor
+2616,488,Translate: Hello,Sí
+2617,489,Translate: Good morning,Buenos días
+2618,490,Translate: Please,¿Cómo estás?
+2619,491,Translate: Please,Gracias
+2620,492,Translate: Thank you,Me encanta aprender idiomas
+2621,493,Translate: Please,Agua
+2622,494,Translate: Please,Gracias
+2623,495,Translate: I love learning languages,Agua
+2624,496,Translate: Good morning,No
+2625,497,Translate: Water,Me encanta aprender idiomas
+2626,498,Translate: Water,Adiós
+2627,499,Translate: Hello,Buenos días
+2628,500,Translate: Good morning,Me encanta aprender idiomas
+2629,501,Translate: I love learning languages,Sí
+2630,502,Translate: Goodbye,Por favor
+2631,503,Translate: No,Gracias
+2632,504,Translate: Thank you,Sí
+2633,505,Translate: Yes,Gracias
+2634,506,Translate: Water,No
+2635,507,Translate: Water,Sí
+2636,508,Translate: Thank you,Sí
+2637,509,Translate: Good morning,Hola
+2638,510,Translate: Thank you,Gracias
+2639,511,Translate: Water,Agua
+2640,512,Translate: Goodbye,¿Cómo estás?
+2641,513,Translate: Hello,Gracias
+2642,514,Translate: Yes,¿Cómo estás?
+2643,515,Translate: I love learning languages,Adiós
+2644,516,Translate: Thank you,Adiós
+2645,517,Translate: Please,Me encanta aprender idiomas
+2646,518,Translate: Good morning,Por favor
+2647,519,Translate: Water,Me encanta aprender idiomas
+2648,520,Translate: No,Hola
+2649,521,Translate: No,Adiós
+2650,522,Translate: Hello,Buenos días
+2651,523,Translate: Goodbye,Por favor
+2652,524,Translate: I love learning languages,¿Cómo estás?
+2653,525,Translate: Water,Por favor
+2654,526,Translate: Please,Adiós
+2655,527,Translate: Yes,No
+2656,528,Translate: Water,No
+2657,529,Translate: Thank you,¿Cómo estás?
+2658,530,Translate: Thank you,¿Cómo estás?
+2659,531,Translate: I love learning languages,Por favor
+2660,532,Translate: Please,¿Cómo estás?

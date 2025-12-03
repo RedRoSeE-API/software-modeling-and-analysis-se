@@ -1,0 +1,20 @@
+course_id,from_language_id,to_language_id,title,description
+1,1,2,English → Spanish Beginner,Complete beginner course
+2,1,2,English → Spanish Intermediate,Build fluency
+3,1,3,English → French A1-A2,From zero to hero
+4,1,3,English → French B1-B2,Intermediate French
+5,1,4,English → German Complete,A1 to B2 in one course
+6,2,1,Spanish → English for Native Speakers,Perfect for Spanish speakers
+7,3,1,French → English Advanced,C1-C2 level
+8,1,8,English → Japanese for Beginners,"Hiragana, Katakana & basic grammar"
+9,1,9,English → Korean Beginner,Hangul + Top 500 words
+10,1,10,English → Chinese (Mandarin),HSK 1-3 level content
+11,2,3,Spanish → French,For Spanish speakers learning French
+12,4,1,German → English Business,Business German to English
+13,1,5,English → Italian Beginner,Ciao! Start speaking today
+14,5,1,Italian → English Intermediate,Improve your English from Italian
+15,1,6,English → Portuguese (Brazil),European + Brazilian variants
+16,6,1,Portuguese → English,For Brazilian and European speakers
+17,1,7,English → Russian A1-A2,Cyrillic + basic phrases
+18,8,1,Japanese → English,For Japanese natives
+19,3,2,French → Spanish,Perfect bridge course
